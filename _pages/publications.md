@@ -21,6 +21,21 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, V
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. [link](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) 
+## Conferences
+- Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020
+- J. Quintas, Nguyen T. Hung, et al., "AUV path planning, navigation, and control using geophysical data," OCEANS 2019 - Marseille, Marseille, France, 2019, pp. 1-9, doi: 10.1109/OCEANSE.2019.8867535.
+- Nguyen T. Hung, F. C. Rego and A. M. Pascoal, "Event-Triggered Communications for the Synchronization of Nonlinear Multi Agent Systems on Weight-Balanced Digraphs," 2019 18th European Control Conference (ECC), Naples, Italy, 2019, pp. 2713-2718, doi: 10.23919/ECC.2019.8796277.
+- Nguyen T. Hung, F. Rego, N. Crasta, Antonio Pascoal, "Input-Constrained Path Following for Autonomous Marine
+	   Vehicles with a Global Region of Attraction", The 11th IFAC
+	   Conference on Control Applications in Marine Systems, Robotics,
+	   and Vehicles--CAMS 2018, Opatija, Croatia.
+- Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
+	   Following of Autonomous Vehicles with Model Predictive Control
+	   and Event Triggered Communications", 6th IFAC Conference on
+	   Nonlinear Model Predictive Control, Wisconsin, USA, 2018.     
+- Francisco C. Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
+	   Following of Autonomous Marine Vehicles: Theory and
+	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018.     
 
 
 <!-- {% if author.googlescholar %}
