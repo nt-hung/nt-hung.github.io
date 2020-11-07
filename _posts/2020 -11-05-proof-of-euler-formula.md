@@ -1,11 +1,10 @@
 ---
-title: 'Proof of Euler's formula'
-date: 2020-11-05
-permalink: /posts/2020/11/proof-of-euler-formula/
+title: 'Fancy Icons and LaTeX Quirks'
+date: 2019-09-02
+permalink: /posts/2019/07/tex-magic1/
 excerpt_separator: <!--more-->
 tags:
-  - references
-  - bash
+  - latex
 ---
 
 As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engineering. The fomula is as follows:
