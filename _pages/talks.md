@@ -4,7 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Under construction
+- VietNam Control and Robotics, July, 2020 (virtual)
+    - Title: Cooperative control of MAS with event based communications: A gentle introduction and its applications in cooperative control of multiple autonomous vehicles. [Slide]()  
+- European control conference 
+    - Title: 
 
 {% if site.talkmap_link == true %}
 
