@@ -5,6 +5,7 @@ permadownload: /publications/
 author_profile: true
 ---
 
+
 ## Journals
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, to appear, 2020. [download](https://www.dropbox.com/s/sg4yg9zde0t98lk/IJCmainwithauthor_revised.pdf?dl=0), [code]().
