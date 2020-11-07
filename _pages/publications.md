@@ -16,7 +16,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, V
 2020, 103608, ISSN 0921-8890. [download](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486), [code]().
 
 ## Book chapters
-- Francisco C. Rego, \textbf{Nguyen T. Hung}, Colin N. Jones, Antonio
+- Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
