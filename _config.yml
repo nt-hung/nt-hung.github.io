@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0003-2620-7336"
-  googlescholar    : "https://scholar.google.com/citations?user=m7lJLm0AAAAJ&hl=en"
+ # googlescholar    : "https://scholar.google.com/citations?user=m7lJLm0AAAAJ&hl=en"
   email            : "nguyen.hung@tecnico.ulisboa.pt"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nt-hung/"
+  linkedin         : "https://www.linkedin.com/in/nt-hung"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
