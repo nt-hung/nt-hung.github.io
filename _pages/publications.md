@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Selected publications"
-permadownload: /publications/
+permalink: /publications/
 author_profile: true
 ---
-
 
 ## Journals
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
