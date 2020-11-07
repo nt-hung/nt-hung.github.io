@@ -1,5 +1,5 @@
 ---
-title: 'Proof of Euler's formular'
+title: 'Proof of Euler's formula'
 date: 2020-11-05
 permalink: /posts/2020/11/proof-of-euler-formula/
 excerpt_separator: <!--more-->
