@@ -7,6 +7,8 @@ tags:
   - references
   - bash
 ---
-As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engineering. The fomula is as follows:
 
+As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engineering. The fomula is as follows:
+```Latex
 $$ e^{i\theta}=\cos(theta)+i\sin(theta) $$
+```
