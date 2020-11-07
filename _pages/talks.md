@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-- VietNam Control and Robotics, July, 2020 (online)
+- Vietnamese Control System and Robotics, July, 2020 (online)
     - Title: Cooperative control of MAS with event based communications: A gentle introduction and its applications in cooperative control of multiple autonomous vehicles. [Slide]()  
 - IFAC2020, Berlin, July, 2020 (online)    
     - Title: Range-based Navigation and Target Localization: Observability Analysis and Guidelines for Motion Planning. [Slide](https://www.dropbox.com/s/qkwmucqrxvv0y83/Main_slide.pdf?dl=0)
