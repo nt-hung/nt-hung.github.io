@@ -8,17 +8,17 @@ title: "Teaching"
     - [Material](http://users.isr.ist.utl.pt/~jxavier/NonlinearOptimization18799-2018.html)
 
 ## Undergraduate courses, at University Technology Petronas
-- Lab instructor (2013-2015): Plant process control, Plant Process Control System, Industrial Automation Control System, and Modern
-Control Engineering.
+- Lab instructor (2013-2015): Plant process control, plant Process control system, industrial automation control system, and modern
+control engineering.
 
 ## Short courses on industrial automation, at Schneider Electric Automation Design Center, HCMUT
 - Course instructor (2010-2012):
     - Industrial network 
-        - [material]()
+        - [Material]()
     - PLC Premium
-        - [material]()
+        - [Material]()
     - PLC Twido 
-        - [material]()
+        - [Material]()
     - SCADA Citect 
-        - [material]()
+        - [Material]()
 
