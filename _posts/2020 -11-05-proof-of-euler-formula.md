@@ -1,7 +1,7 @@
 ---
 title: 'Proof of Eulers formula'
-date: 2019-09-02
-permalink: /posts/2019/07/proof-euler/
+date: 2020-11-05
+permalink: /posts/2020/11/proof-euler/
 excerpt_separator: <!--more-->
 tags:
   - General
