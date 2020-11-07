@@ -13,8 +13,12 @@ Control Engineering.
 
 ## Short courses on industrial automation, at Schneider Electric Automation Design Center, HCMUT
 - Course instructor (2010-2012):
-    - Industrial network, [material]()
-    - PLC Premium, [material]()
-    - PLC Twido, [material]()
-    - SCADA Citect [material]()
+    - Industrial network 
+        - [material]()
+    - PLC Premium
+        - [material]()
+    - PLC Twido 
+        - [material]()
+    - SCADA Citect 
+        - [material]()
 
