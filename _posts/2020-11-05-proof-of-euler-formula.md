@@ -3,7 +3,7 @@ title: 'Proof of Eulers formula'
 date: 2020-11-05
 permalink: /posts/2020/11/proof-euler/
 excerpt_separator: <!--more-->
-usemMath: true
+useMath: true
 tags:
   - General
   - Mathematic
