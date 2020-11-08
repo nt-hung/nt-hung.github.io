@@ -15,3 +15,24 @@ As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engi
 $ e^{i\theta}=\cos(\theta)+i\sin(\theta) $
 \end{document}
 ```
+
+```latex
+\documentclass{beamer}
+
+\begin{document}
+	
+\begin{frame}[fragile]{My default slide}
+	\begin{itemize}
+		\item Foo
+		\item Bar
+		\begin{itemize}
+			\item Below is an equation
+			\[ y = mx + b \]
+			\item It is very hard to read
+		\end{itemize}
+		\item Baz
+	\end{itemize}
+\end{frame}
+
+\end{document}
+```
