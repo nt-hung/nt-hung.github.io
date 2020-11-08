@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Under construction
+My research tackles problems involving cooperative control and navigation of networked autonomous vehicles/mobile robots. Tools used to address these problem include : control, estimation, optimization and network theory.
 
-<!-- <nbsp>
+<nbsp>
 
 {% include base_path %}
 
@@ -15,4 +15,4 @@ Under construction
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %} -->
+{% endfor %}
