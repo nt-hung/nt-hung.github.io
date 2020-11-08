@@ -11,6 +11,7 @@ tags:
 As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engineering. The fomula is as follows:
 ```Latex
 \documentclass{article}
+\begin{document}
 $ e^{i\theta}=\cos(\theta)+i\sin(\theta) $
 \end{document}
 ```
