@@ -23,7 +23,7 @@ Because $i^2=-1$,
 
 Real$( e^{i\theta})= 1 - \frac{\theta^2}{2!} + \frac{\theta^4}{4!} + ... = \cos(\theta)   $, and 
 
-Img$( e^{i\theta})=  i(theta - \frac{\theta^3}{3!} + \frac{\theta^5}{5!} + ...) = i\sin(\theta)  $
+Img$( e^{i\theta})=  i(\theta - \frac{\theta^3}{3!} + \frac{\theta^5}{5!} + ...) = i\sin(\theta)  $
 
 Thus the formula is correct. 
 
