@@ -3,7 +3,7 @@ title: "Consensus/synchronization of nonlinear multi agent system"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 100
 ---
 Suppose that we have a network of multiple nonlinear agent system, where each agent dynamics are described a model, given by 
 
