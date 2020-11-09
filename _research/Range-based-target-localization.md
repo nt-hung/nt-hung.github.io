@@ -6,20 +6,48 @@ collection: research
 order_number: 10
 ---
 
-In this research I ask why some rebel groups fight for secession and independence, while others are willing to use violence to secure more autonomy and self-governance within an existing state. I argue that because rebel groups are strategic actors, they realize that military victory or plebiscite is not the end of their political struggle; if they gain independence, they must then create a new state. States are territorial entities, and so the trajectory of any new state will be greatly influenced by the resources and challenges its territory holds. Knowing this, rebel groups whose territory is more conducive to governance and administration will push for independence, while groups whose territory is less suited will fight for autonomy within the state. However, governments are aware of which groups inhabit territories most suitable to secession and employ various measures to try and stop these conflicts before they can begin, such as China’s pervasive electronic tracking of Uyghur citizens in Xinjiang.
+Typically, range-based navigation is defined for an agent, for example, a scuba-diver or
+an AUV to find its own state (position, and possibly with velocity and acceleration) using
+the information measured by the agent itself and the ranges to a known single or multiple
+beacons [Bayat et al., 2016]. If an agent like AUV can measure its velocity vector (using
+Doppler Velocity Log (DVL)), then only the position of the AUV needs to be determined.
+In other situations, velocity and acceleration need to be determined as well.
 
-To test these arguments, I focus on rebel movements tied to ethnic groups with defined homelands. By doing so, I am able to exploit geospatial data on population and government activity to compare the governability of subnational territories cross-nationally. I also explore the temporal dynamics of these phenomena in smaller scale studies focusing on different government preemption tactics. I explore how states actually conduct this surveillance of their populations, using an agent-based model to predict when these monitoring efforts are likely to fail. Such simulation based approaches help us understand the role that information and communication technology can play in helping governments main control of restive regions.
+Range-based target localization (or tracking), on the other hand, is defined for one or
+multiple trackers to find the state of the target using only ranges from the tracker(s) to
+the target. The state of the target typically includes the target’s position, velocity, and
+possibly acceleration, depending on the model of the target adopted.
 
-## Working paper
 
-Rob Williams. "The Curse of Geography: How Governments Preempt Secession Attempts." Presented at the Annual Meeting of the Peace Science Society (International), Austin, TX, November 2018.
+## Contribution
+we propose a systematic approach to solve the cooperative target localization and
+pursuit that was stated in Problem 2. We identify a few sub-problems where we isolate
+specific technical challenges that are present in Problem 2. By studying and solving each
+sub-problem, we hope to gain insights into a general solution for the original problem.
+Also, while addressing each sub-problem we expect to find as byproducts some interesting
+results that stand on their own.
 
-> Secessionist conflicts often begin in places abundant with resources and located far from the centers of state power. These factors affect the likelihood of secessionist conflict because dissidents will only rebel when they expect to be able to form a functional state within the borders of their territory following independence. There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross national geospatial data, I find that governments develop higher levels of state capacity in more governable, and thus more secession prone, regions. The same factors which make territory attractive for secession also make governments willing to work to retain control of that territory, suggesting that potential secessionists confront many of the same dilemmas as states.
+1. The first sub-problem involves in characterizing the motion of trackers under which
+the target’s state is observable. Using tools from the function analysis, a set of
+conditions are derived for different type of target maneuvers are derived, providing
+guidelines for trackers’ motion planning [Hung and Pascoal, 2020a].
 
-[Working Paper](/files/pdf/research/Curse of Geography.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Curse of Geography SI.pdf){: .btn--research}
+2. The second sub-problem is to find the optimal motions for the trackers such that
+the range-information acquired for estimating the target state is maximal. Using
+a Bayesian FIM, a tool from estimation theory, an optimal relative motion of the
+trackers respect to the target is characterized. We also propose a receding horizon
+planning, control, and estimation framework for the target localization and pursuit
+problem where the constraints on the trackers’ inputs and the uncertainty of the
+target are taken into account explicitly [Hung et al., 2020a].
 
-## Manuscript in preparation
+3. After solving the aforementioned sub-problems, we come back the original problem. We exploit the knowledge about observability and the optimal trajectory for range-based target localization to plan desired motions for the trackers. We then propose a cooperative distributed estimation and control (DEC) strategy to address the constraints on the topology of the inter-tracker communication network. To this effect, a distributed extended Kalman filter (DEKF) is adopted for the cooperative estima-
+tion of the target’s state, and a distributed consensus control strategy is proposed for the cooperative pursuit of the target. The later aims at driving all trackers to the vicinity of the target while holding an optimal target-trackers relative-geometry
+that maximizes the range information for estimating the target’s state. To make the proposed DEC more efficient in terms of communications, we proposed event triggered mechanisms for the DEKF and for the distributed consensus control strategy where the communication among the tracker take place when found necessary. The stability of the complete closed-loop DEC system is rigorously proved.
 
-Rob Williams. "Keeping a Lid on it: How Government efforts to Prevent Secession Attempts can Fail." Presented at the International Studies Association Annual Convention, Toronto, ON, March 2019.
+## Related publications
 
-> Secessionist conflicts are likely to begin in specific types of places: those with abundant resources located far from the centers of state power. These factors affect the likelihood of secessionist conflict because dissidents will only rebel when they expect to be able to form a functional state within the borders of their territory following independence. There is a strong link between oil and secessionist conflict, but oil is far from the only resource a state can rely on. There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. What strategies do governments use to try and preempt secession attempts by aggrieved minorities? What determines when they prefer to employ carrots vs sticks? Finally, what explains why these efforts break down allowing the onset of secessionist conflict? I argue that when discontinuous shifts in the resources available to ethnic groups within territories occur and governments' capabilities to monitor those territories prevent them from quickly updating their information, dissidents capitalize on this private information and initiate conflict. I investigate these dynamics with an agent based model of government surveillance and preemption strategies, studying the effect of exogenous shocks on resources within ethnic group territories on the likelihood of conflict onset. By varying how quickly the government is able to update its information in response to changes in ethnic group territories, I model the effect of government intelligence quality on the likelihood of conflict. These insights are combined with qualitative case study evidence to illustrate how failure in government preemption strategies can lead to secessionist conflict.
+- Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
+"Range-based target localization and pursuit with autonomous vehicles: An approach using
+posterior CRLB and model predictive control", Robotics and Autonomous Systems, Volume 132,
+2020, 103608, ISSN 0921-8890. [download](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486), [code]().
+- Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [download](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
