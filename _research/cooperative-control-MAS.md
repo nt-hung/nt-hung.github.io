@@ -1,5 +1,5 @@
 ---
-title: "Consensus/synchronization of multi agent system with event-triggered communications"
+title: "Consensus/synchronization of nonlinear multi agent system"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research

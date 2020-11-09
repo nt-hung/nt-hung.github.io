@@ -1,5 +1,5 @@
 ---
-title: "Cooperative path following of autonomous vehicles with event-triggered communications"
+title: "Cooperative path following of multiple autonomous vehicles"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
