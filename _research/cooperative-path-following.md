@@ -1,5 +1,5 @@
 ---
-title: "Consensus/synchronization of multi agent system with event-triggered communications"
+title: "Cooperative path following of autonomous vehicles with event-triggered communications"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research

@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research tackles problems involving cooperative control and navigation of networked autonomous vehicles/mobile robots. Tools used to address these problem include : control, estimation, optimization and network theory.
+My research tackles problems involving cooperative distributed control and estimation of networked multi agent system under communication constraints. Each agent can be a mobile ground robot, an underwater autonomous vehicle (UAV), or simply, a sensor node. The main goal is to design efficiently distributed control/estimation algorithms to address problems involving in the operation of MAS that include:
 
 <nbsp>
 

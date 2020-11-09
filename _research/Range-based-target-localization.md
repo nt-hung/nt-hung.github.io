@@ -1,5 +1,5 @@
 ---
-title: "Range-based target localization"
+title: "Range-based navigation and target localization with autonomous vehicles"
 layout: single-portfolio
 excerpt: "<img src='/images/research/china_nl.png' alt=''>"
 collection: research
