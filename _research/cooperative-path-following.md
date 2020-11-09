@@ -1,7 +1,7 @@
 ---
 title: "Cooperative path following of multiple autonomous vehicles"
 layout: single-portfolio
-excerpt: "<img src='/images/research/CPF_illustration.png' alt=''>"
+excerpt: "<img src='/images/research/vehicle_network.pdf' alt=''>"
 collection: research
 order_number: 60
 ---

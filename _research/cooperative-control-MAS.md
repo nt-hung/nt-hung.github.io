@@ -1,13 +1,13 @@
 ---
 title: "Consensus/synchronization of nonlinear multi agent system"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/digraph.png' alt=''>"
 collection: research
 order_number: 100
 ---
 Suppose that we have a network of multiple nonlinear agent system, where each agent dynamics are described a model, given by 
 
-$$\bf{\dot{x}}_i=A{\bf x}_i + {\bf f}({\bf x}_i,t) + B {\bf u}_i $$
+$${\bf \dot{x}}_i=A{\bf x}_i + {\bf f}({\bf x}_i,t) + B {\bf u}_i $$
 
 for all $i \in \{1,...,N\}$. Here, ${\bf x}_i \in \mathbb{R}^{n}$ is the state and ${\bf u}_i \in \mathbb{R}^{m} $ is the input of agent $i$; the function ${\bf f}({\bf x},t)$ is assumed to be Lipchizt in ${\bf x}$. 
 Furthermore, the communications among the agents are constrained by a network topology that can be modeled by a directed graph.
