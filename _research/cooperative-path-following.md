@@ -1,7 +1,7 @@
 ---
 title: "Cooperative path following of multiple autonomous vehicles"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/CPF_illustration.png' alt=''>"
 collection: research
 order_number: 60
 ---
@@ -13,6 +13,9 @@ with a local task, i.e. converge to and follow its preassigned path (the straigh
 cooperating with other vehicles via a wireless communication network to position itself
 relative to other vehicles such that all vehicles are aligned in a side-by-sided formation
 in time.
+
+![](/images/research/CPF_illustration.png)
+
 
 ## Contribution
 
