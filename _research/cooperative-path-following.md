@@ -6,12 +6,29 @@ collection: research
 order_number: 10
 ---
 
-In this project I leverage computer vision tools and machine learning techniques to identify clusters of video authors based on the imagery contained within the videos themselves. This approach offers the possibility of being able to map relationships between clandestine actors that intentionally try to obscure these connections.
+Cooperative path following (CPF) is a typical formation control problem, defined as steering a group of autonomous
+vehicles along given spatial paths while holding a desired inter-vehicle formation pattern.
+A simple example of CPF is illustrated in Fig.1.1. In this setup, each vehicle is dedicated
+with a local task, i.e. converge to and follow its preassigned path (the straight line), while
+cooperating with other vehicles via a wireless communication network to position itself
+relative to other vehicles such that all vehicles are aligned in a side-by-sided formation
+in time.
 
-## Manuscript in preparation
+## Contribution
 
-Rob Williams. "Mapping Extremist Networks with Visual Imagery." Presented at the Annual Meeting of the Society for Political Methodology, Cambridge, MA, July 2019 the 2nd Annual Politics and Computational Social Science Conference, Washington, DC, August 2019.
+We proposed a solution that involves in decoupling the original CPF problem into two sub-problems: i) single
+path following of input-constrained vehicles and ii) coordination of an input-constrained multi-agent system (MAS). The first is solved by adopting a sampled-data model predictive control (MPC) scheme, whereas the latter is tackled using a novel distributed control law with an (ETC) mechanism. The proposed strategy yields a closed-loop CPF system
+that is input-to-state-stable (ISS) with respect to the system’s state (consisting of the
+path following error of all vehicles and their coordination errors) and the system’s input,
+which includes triggering thresholds for ETC communications and communication delays.
 
-> Identifying networks of cooperation and conflict between actors in broader social movements can be a challenging task even when data are easily obtainable. When actors are involved in socially marginal movements such as extremist groups, this task becomes even more difficult due to the high degree of secrecy that surrounds communication and interaction between members. However, extremist groups such as terrorist groups often release extensive amounts of propaganda material, including video, magazines, and social media content. I focus on video propaganda and use computer vision techniques to identify points of interest within video frames and extract quantitative descriptions of them. I then find unsupervised clusters of these image fragment that I hand label e.g. guns, faces, banners, etc. I assign each point of interest in a frame to its appropriate category, and then generate counts of each category's frequency within each video. I then rely on unsupervised clustering methods to detect groups of videos that use similar visual imagery. Extremist group propaganda materials represent an untapped potential source of information about patterns of allegiance within the broader movement as groups that are aligned with one another are likely to produce material sharing many of the same images, terms, and themes. I evaluate this method on a sample of propaganda videos produced by groups within the Salafi Jihadi movement and compare this video-derived measure of group relationships with existing qualitative work mapping these connections to validate my findings. This computer vision approach will allow researchers to identify individual terrorist groups within broader movements when the extensive information on group interactions required for traditional network analysis is unavailable.
+## Related publications
 
-[Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research}
+- Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
+International Journal of Robust Nonlinear Control, 2020; 30: 2644– 2670. [download](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896), [code]()
+- Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
+	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
+	   Following Control with Logic-Based Communications: Theory and
+	   Practice", Navigation and Control of Autonomous Marine Vehicles,
+	   IET books, 2019. [download](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8), [code](). 
+<!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
