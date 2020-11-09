@@ -27,4 +27,8 @@ are illustrated via numerical simulations.
 
 ## Related publications
 
+-  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
+multiple agent systems with event-triggered communications", International Journal of Control, to appear, 2020. [download](https://www.dropbox.com/s/sg4yg9zde0t98lk/IJCmainwithauthor_revised.pdf?dl=0), [code]().
+- Nguyen T. Hung, F. C. Rego and A. M. Pascoal, "Event-Triggered Communications for the Synchronization of Nonlinear Multi Agent Systems on Weight-Balanced Digraphs," 2019 18th European Control Conference (ECC), Naples, Italy, 2019, pp. 2713-2718. [download](https://doi.org/10.23919/ECC.2019.8796277), [code]().
+
 [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research}
