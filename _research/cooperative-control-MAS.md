@@ -6,12 +6,12 @@ collection: research
 order_number: 10
 ---
 Suppose that we have a network of multi nonlinear agent system, where each agent dynamics are described a model, given by 
-$$
-\bf{dot{x}}_i=A\bfx_i + {\bf f}({\bf x}_i,t) + B {\bf u}_i 
-$$
+
+$$\bf{\dot{x}}_i=A{\bf x}_i + {\bf f}({\bf x}_i,t) + B {\bf u}_i $$
+
 for all $i \in {1,...,N}$.
 Furthermore, the communications among the agents are constrained by a network topology that can be modeled by a directed graph.
-The consensus/synchronization problem is defined for fiding a distributed control strategy for ${\bf u}_i$ s.t. asymtotically, the trajectories of all agents are synchronized (reach consensus), i.e. ${\bf x}_i(t)={\bf x}_j(t)$ for all $i,j \in {1,...N}$ as $t\to \infinity$. 
+The consensus/synchronization problem is defined for fiding a distributed control strategy for ${\bf u}_i$ s.t. asymtotically, the trajectories of all agents are synchronized (reach consensus), i.e. ${\bf x}_i(t)={\bf x}_j(t)$ for all $i,j \in {1,...N}$ as $t\to \infty$. 
 
 ## Contribution
 My work proposed a solution to the above problem with an event-triggered communications (ETC) mechanism. In con-
