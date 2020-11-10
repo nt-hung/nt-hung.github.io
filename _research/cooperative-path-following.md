@@ -14,13 +14,15 @@ cooperating with other vehicles via a wireless communication network to position
 relative to other vehicles such that all vehicles are aligned in a triangular formation
 in time.
 
+Although many path following methods have been developed over the last decades, the main challenge is how to handle explicitly the vehicle constraints (e.g. limit on linear and angular velocities) and the constraints on the network topology and bandwidth.  
+
 ![](/images/research/CPF_illustration.png)
 
 
 ## Contribution
 
 We proposed a solution that involves in decoupling the original CPF problem into two sub-problems: i) single
-path following of input-constrained vehicles and ii) coordination of an input-constrained multi-agent system (MAS). The first is solved by adopting a sampled-data model predictive control (MPC) scheme, whereas the latter is tackled using a novel distributed control law with an (ETC) mechanism. The proposed strategy yields a closed-loop CPF system
+path following of input-constrained vehicles and ii) coordination of an input-constrained multi-agent system (MAS). The first is solved by adopting a sampled-data model predictive control (MPC) scheme, whereas the latter is tackled using a novel distributed control law with an event-triggered communication mechanism. The proposed strategy yields a closed-loop CPF system
 that is input-to-state-stable (ISS) with respect to the system’s state (consisting of the
 path following error of all vehicles and their coordination errors) and the system’s input,
 which includes triggering thresholds for ETC communications and communication delays.
