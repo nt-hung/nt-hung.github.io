@@ -6,8 +6,8 @@ collection: research
 order_number: 10
 ---
 
-Typically, range-based navigation is defined for an agent, for example, a scuba-diver or
-an AUV to find its own state (position, and possibly with velocity and acceleration) using
+Range-based navigation is defined for an agent, for example, a scuba-diver or
+an autonomous underwater vehicle (AUV) to find its own state (position, and possibly with velocity and acceleration) using
 the information measured by the agent itself and the ranges to a known single or multiple
 beacons. If an agent like AUV can measure its velocity vector (using
 Doppler Velocity Log (DVL)), then only the position of the AUV needs to be determined.
@@ -16,17 +16,18 @@ In other situations, velocity and acceleration need to be determined as well.
 Range-based target localization (or tracking), on the other hand, is defined for one or
 multiple autonomous vehicles acting as mobile sensors to find the state of the target using only ranges from the vehicles to
 the target. The state of the target typically includes the target’s position, velocity, and
-possibly acceleration, depending on the model of the target adopted. From a theoretical standpoint, the navigation and localization are dual.   
+possibly acceleration, depending on the model of the target adopted. 
 
-Target pursuit is defined as a task of driving the vehicle(s) to converge to and stay in the vicinity of the
-target. This task is crucial when the entities are in underwater environment where range
-is only able to be measured in a relatively short distance.
+From a theoretical standpoint, the navigation and localization are dual.   
+
+Range-based target pursuit is defined as a task of driving the vehicle(s) to converge to and stay in the vicinity of the
+target. The process of purusing the target only useing range information from the vehicle (s) to the target. This task is crucial when the entities are in underwater environment where rangeis only able to be measured in a relatively short distance.
 
 ## Contribution
 
-We propose a systematic approach to solve the cooperative target localization and
-pursuit using multiple autonomous vehicles. We identify a few sub-problems where we isolate
-specific technical challenges that are present in Problem 2. By studying and solving each
+We propose a systematic approach to solve the range based simutenous target localization and
+pursuit using a single or a networked multiple autonomous vehicles. We identify a few sub-problems where we isolate
+specific technical challenges that are present in this broad problem. By studying and solving each
 sub-problem, we hope to gain insights into a general solution for the original problem.
 Also, while addressing each sub-problem we expect to find as byproducts some interesting
 results that stand on their own.
