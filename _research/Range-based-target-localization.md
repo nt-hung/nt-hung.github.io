@@ -18,15 +18,14 @@ multiple autonomous vehicles acting as mobile sensors to find the state of the t
 the target. The state of the target typically includes the target’s position, velocity, and
 possibly acceleration, depending on the model of the target adopted. 
 
-From a theoretical standpoint, the navigation and localization are dual.   
+From a theoretical standpoint, the navigation and localization problems are dual.   
 
 Range-based target pursuit is defined as a task of driving the vehicle(s) to converge to and stay in the vicinity of the
-target. The process of purusing the target only useing range information from the vehicle (s) to the target. This task is crucial when the entities are in underwater environment where rangeis only able to be measured in a relatively short distance.
+target. The process of pursuing the target only using range information from the vehicle (s) to the target. This task is crucial when the entities are in an underwater environment where range is only able to be measured in a relatively short distance.
 
 ## Contribution
 
-We propose a systematic approach to solve the range based simutenous target localization and
-pursuit using a single or a networked multiple autonomous vehicles. We identify a few sub-problems where we isolate
+We propose a systematic approach to solve the range based simultaneous target localization and pursuit using a single or a networked multiple autonomous vehicles. We identify a few sub-problems where we isolate
 specific technical challenges that are present in this broad problem. By studying and solving each
 sub-problem, we hope to gain insights into a general solution for the original problem.
 Also, while addressing each sub-problem we expect to find as byproducts some interesting
