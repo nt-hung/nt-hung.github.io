@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journals
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
-multiple agent systems with event-triggered communications", International Journal of Control, to appear, 2020. [download](https://www.dropbox.com/s/sg4yg9zde0t98lk/IJCmainwithauthor_revised.pdf?dl=0), [code](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
+multiple agent systems with event-triggered communications", International Journal of Control, 2020. [download](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806), [code](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020; 30: 2644– 2670. [download](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896), [code]()
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,

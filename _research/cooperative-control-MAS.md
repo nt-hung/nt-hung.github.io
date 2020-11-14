@@ -30,7 +30,7 @@ of performance achieved in MAS consensus/synchronization.
 ## Related publications
 
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
-multiple agent systems with event-triggered communications", International Journal of Control, to appear, 2020. [download](https://www.dropbox.com/s/sg4yg9zde0t98lk/IJCmainwithauthor_revised.pdf?dl=0), [code](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
+multiple agent systems with event-triggered communications", International Journal of Control, 2020. [download](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806), [code](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
 - Nguyen T. Hung, F. C. Rego and A. M. Pascoal, "Event-Triggered Communications for the Synchronization of Nonlinear Multi Agent Systems on Weight-Balanced Digraphs," 2019 18th European Control Conference (ECC), Naples, Italy, 2019, pp. 2713-2718. [download](https://doi.org/10.23919/ECC.2019.8796277), [code]().
 
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
