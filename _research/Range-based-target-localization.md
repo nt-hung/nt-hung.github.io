@@ -34,7 +34,7 @@ results that stand on their own.
 1. The first sub-problem involves in characterizing the motion of trackers under which
 the target’s state is observable. Using tools from the function analysis, a set of
 conditions are derived for different type of target maneuvers are derived, providing
-guidelines for trackers’ motion planning [Hung and Pascoal, 2020a].
+guidelines for trackers’ motion planning [[Paper]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) .
 
 2. The second sub-problem is to find the optimal motions for the trackers such that
 the range-information acquired for estimating the target state is maximal. Using
@@ -42,7 +42,7 @@ a Bayesian FIM, a tool from estimation theory, an optimal relative motion of the
 trackers respect to the target is characterized. We also propose a receding horizon
 planning, control, and estimation framework for the target localization and pursuit
 problem where the constraints on the trackers’ inputs and the uncertainty of the
-target are taken into account explicitly [Hung et al., 2020a].
+target are taken into account explicitly  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486).
 
 3. After solving the aforementioned sub-problems, we come back the original problem. We exploit the knowledge about observability and the optimal trajectory for range-based target localization to plan desired motions for the trackers. We then propose a cooperative distributed estimation and control (DEC) strategy to address the constraints on the topology of the inter-tracker communication network. To this effect, a distributed extended Kalman filter (DEKF) is adopted for the cooperative estima-
 tion of the target’s state, and a distributed consensus control strategy is proposed for the cooperative pursuit of the target. The later aims at driving all trackers to the vicinity of the target while holding an optimal target-trackers relative-geometry
@@ -55,4 +55,4 @@ that maximizes the range information for estimating the target’s state. To mak
 posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
 [[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]().
 - Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
-[[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]].
+[[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]]().
