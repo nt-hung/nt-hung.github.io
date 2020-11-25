@@ -14,7 +14,7 @@ cooperating with other vehicles via a wireless communication network to position
 relative to other vehicles such that all vehicles are aligned in a triangular formation
 in time.
 
-Although many path following methods have been developed over the last decade, the main challenge is how to handle constraints on the vehicle (e.g. limit on linear and angular velocities) and the constraints on the network topology and bandwidth.  
+Although many path following methods have been developed over the last decade, the main challenge is how to handle constraints on the vehicles (e.g. limit on linear and angular velocities) and the constraints on the network topology and save the communication bandwidth.  
 
 ![](/images/research/CPF_illustration.png)
 
@@ -38,4 +38,8 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. \
 	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](). 
+- Francisco C. Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
+	   Following of Autonomous Marine Vehicles: Theory and
+	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
+	   [[Web]](https://doi.org/10.1109/AUV.2018.8729809)     	   
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
