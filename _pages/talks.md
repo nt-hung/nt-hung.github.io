@@ -8,7 +8,7 @@ author_profile: true
     - **Title**: Cooperative control of MAS with event based communications: A gentle introduction and its applications in cooperative control of multiple autonomous vehicles. [Slide]()  
 - IFAC2020, Berlin, July 2020 (online).    
     - **Title**: Range-based Navigation and Target Localization: Observability Analysis and Guidelines for Motion Planning. [Slide](https://www.dropbox.com/s/qkwmucqrxvv0y83/Main_slide.pdf?dl=0)
-- European control conference, Naples, Italy, June, 2019. 
+- European control conference, Naples, Italy, June 2019. 
     - **Title**: Event-Triggered Communications for the Synchronization of Nonlinear Multi Agent Systems on Weight-Balanced Digraphs. [Slide](https://www.dropbox.com/s/d8opr9mo3tkmxeg/Slide.pdf?dl=0)
 - 6th IFAC Conference on Nonlinear Model Predictive Control, Wisconsin, USA, August 2018.
     - **Title**: Cooperative Path Following of Autonomous Vehicles with Model Predictive Control and Event Triggered Communications. [Slide](https://www.dropbox.com/s/4pnf9fr9e6a3mo5/Slide_NMPC2018.pdf?dl=0)
