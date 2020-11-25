@@ -15,7 +15,7 @@ International Journal of Robust Nonlinear Control, 2020.
 [[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]]()
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
-posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. 
+posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
 [[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]().
 
 ## Book chapters
@@ -24,7 +24,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. 
-	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](). 
+	   [Preprint](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [Web](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [Code](). 
 
 ## Conferences
 - Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [[Web]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
