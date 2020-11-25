@@ -36,6 +36,6 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
-	   IET books, 2019. 
+	   IET books, 2019. \
 	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](). 
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->

@@ -52,6 +52,7 @@ that maximizes the range information for estimating the target’s state. To mak
 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
-posterior CRLB and model predictive control", Robotics and Autonomous Systems, Volume 132,
-2020, 103608, ISSN 0921-8890. [download](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486), [code]().
-- Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [download](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
+posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
+[[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]().
+- Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
+[[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]].
