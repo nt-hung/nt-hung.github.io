@@ -20,7 +20,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
-	   IET books, 2019. [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8), [[Code]](). 
+	   IET books, 2019. [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8), [[Code]](). 
 
 ## Conferences
 - Nguyen T. Hung, Antonio M. Pascoal, "range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [[Web]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
