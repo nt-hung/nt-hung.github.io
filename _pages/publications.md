@@ -8,7 +8,7 @@ author_profile: true
 ## Journals
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", under review. 
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
-multiple agent systems with event-triggered communications", International Journal of Control, 2020. [[[Preprint]]](/files/pdf/research/IJC2020_preprint.pdf), [[[Web]]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806), [[[Code]]](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
+multiple agent systems with event-triggered communications", International Journal of Control, 2020. [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf), [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806), [[Code]](https://github.com/nt-hung/consensus-synchronization-of-MAS-with-ETC.git).
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020; 30: 2644– 2670. [[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896), [[Code]]()
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
