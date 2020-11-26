@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 - Vietnamese Control System and Robotics, July 2020 (online).
-    - **Title**: Cooperative control of MAS with event based communications: A gentle introduction and its applications in cooperative control of multiple autonomous vehicles. [Slide]()  
+    - **Title**: Cooperative Control of MAS with Event Triggered- Communications: A Gentle Introduction and Its Applications in Cooperative Control of Multiple Autonomous Vehicles. [Slide]()  
 - IFAC2020, Berlin, July 2020 (online).    
     - **Title**: Range-based Navigation and Target Localization: Observability Analysis and Guidelines for Motion Planning. [Slide](https://www.dropbox.com/s/qkwmucqrxvv0y83/Main_slide.pdf?dl=0)
 - European control conference, Naples, Italy, June 2019. 
