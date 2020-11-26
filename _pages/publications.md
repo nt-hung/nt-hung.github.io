@@ -24,7 +24,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. 
-	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](). 
+	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa). 
 
 ## Conferences
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [[Web]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).

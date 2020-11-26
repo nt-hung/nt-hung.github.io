@@ -37,7 +37,7 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. \
-	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](). 
+	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa). 
 - Francisco C. Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
 	   Following of Autonomous Marine Vehicles: Theory and
 	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
