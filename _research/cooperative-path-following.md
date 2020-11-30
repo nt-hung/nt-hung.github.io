@@ -48,5 +48,10 @@ International Journal of Robust Nonlinear Control, 2020. \
 - Francisco C. Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
 	   Following of Autonomous Marine Vehicles: Theory and
 	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
-	   [[Web]](https://doi.org/10.1109/AUV.2018.8729809)     	   
+	   [[Web]](https://doi.org/10.1109/AUV.2018.8729809)   
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u_jDrVrIweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
