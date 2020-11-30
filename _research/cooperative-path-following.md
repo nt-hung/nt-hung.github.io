@@ -31,7 +31,7 @@ which includes triggering thresholds for ETC communications and communication de
 
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020. \
-[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-MPC) - [[videos]](https://www.youtube.com/watch?v=u_jDrVrIweY)
+[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-MPC) - [[Videos]](https://www.youtube.com/watch?v=u_jDrVrIweY)
  
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-

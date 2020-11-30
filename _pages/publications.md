@@ -12,7 +12,7 @@ multiple agent systems with event-triggered communications", International Journ
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020. \
-[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-MPC) - [[videos]](https://www.youtube.com/watch?v=u_jDrVrIweY)
+[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-MPC) - [[Videos]](https://www.youtube.com/watch?v=u_jDrVrIweY)
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
 posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
@@ -24,7 +24,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. 
-	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa) - [[videos]](https://www.youtube.com/watch?v=YkpvfibSad0). 
+	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa) - [[Videos]](https://www.youtube.com/watch?v=YkpvfibSad0). 
 
 ## Conferences
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [[Web]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
