@@ -31,7 +31,7 @@ which includes triggering thresholds for ETC communications and communication de
 
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020. \
-[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]]()
+[[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-MPC) - [[videos]](https://www.youtube.com/watch?v=u_jDrVrIweY)
  
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
@@ -50,7 +50,7 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
 	   [[Web]](https://doi.org/10.1109/AUV.2018.8729809)   
 
-## Videos
+## Videos - an example of circular formation with CPF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jDrVrIweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
