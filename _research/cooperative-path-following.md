@@ -32,12 +32,19 @@ which includes triggering thresholds for ETC communications and communication de
 - Nguyen T. Hung, Antonio M. Pascoal, Tor A. Johansen, "Cooperative path following of constrained autonomous vehicles with model predictive control and event-triggered communications",
 International Journal of Robust Nonlinear Control, 2020. \
 [[Preprint]](/files/pdf/research/JRNC2020_preprint.pdf) - [[Web]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) - [[Code]]()
+ 
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
 	   Following Control with Logic-Based Communications: Theory and
 	   Practice", Navigation and Control of Autonomous Marine Vehicles,
 	   IET books, 2019. \
-	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa). 
+	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa).
+
+- Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
+	   Following of Autonomous Vehicles with Model Predictive Control
+	   and Event Triggered Communications", 6th IFAC Conference on
+	   Nonlinear Model Predictive Control, Wisconsin, USA, 2018. [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896318326855).  
+
 - Francisco C. Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Path
 	   Following of Autonomous Marine Vehicles: Theory and
 	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
