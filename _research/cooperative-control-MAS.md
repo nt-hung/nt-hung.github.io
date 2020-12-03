@@ -12,7 +12,7 @@ $$\Sigma_i : {\bf \dot{x}}_i=A{\bf x}_i + {\bf f}({\bf x}_i,t) + B {\bf u}_i $$
 for all $i \in \{1,...,N\}$. Here, ${\bf x}_i \in \mathbb{R}^{n}$ is the state and ${\bf u}_i \in \mathbb{R}^{m} $ is the input of agent $i$; the function ${\bf f}({\bf x},t)$ is assumed to be Lipchizt in ${\bf x}$. 
 Furthermore, the communications among the agents are constrained by a network topology that can be modeled by a directed graph (as shown in the figure).
 
-The consensus/synchronization problem is defines as finding a distributed control strategy for ${\bf u}_i$ s.t. asymtotically, the trajectories of all agents are synchronized (reach consensus), i.e. ${\bf x}_i(t)={\bf x}_j(t)$ for all $i,j \in \{1,...N\}$ as $t\to \infty$. 
+The consensus/synchronization problem is defined as finding a distributed control strategy for ${\bf u}_i({\bf x}_i,{\bf x}_j)$, where $j$ is in the set of the neighbors of $i$ s.t. asymtotically, the trajectories of all agents are synchronized (reach consensus), i.e. ${\bf x}_i(t)={\bf x}_j(t)$ for all $i,j \in \{1,...N\}$ as $t\to \infty$. 
 
 ![](/images/research/digraph.png)
 
