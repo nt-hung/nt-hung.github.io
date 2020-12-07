@@ -59,4 +59,4 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 
 ## Videos - an example using an autonomous vehicle to localize and pursue a target 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
