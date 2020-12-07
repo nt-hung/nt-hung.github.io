@@ -56,3 +56,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 [[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]() - [[Videos]](https://www.youtube.com/watch?v=jXkh-W7ksyM).
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
 [[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]]().
+
+## Videos - an example using an autonomous vehicle to localize and pursue a target 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
