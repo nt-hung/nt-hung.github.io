@@ -48,7 +48,10 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Following of Autonomous Marine Vehicles: Theory and
 	   Experiments", IEEE OES Autonomous Underwater Vehicle, Porto, Portugal, 2018. \
 	   [[Web]](https://doi.org/10.1109/AUV.2018.8729809)   
-
+- Nguyen T. Hung, F. Rego, N. Crasta, Antonio Pascoal, "Input-Constrained Path Following for Autonomous Marine
+	   Vehicles with a Global Region of Attraction", The 11th IFAC
+	   Conference on Control Applications in Marine Systems, Robotics,
+	   and Vehicles--CAMS 2018, Opatija, Croatia. [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896318321888).
 ## Videos - an example of circular formation with CPF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jDrVrIweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
