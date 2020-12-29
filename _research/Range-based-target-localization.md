@@ -57,6 +57,6 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
 [[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]]().
 
-## Videos - an example using an autonomous vehicle to localize and pursue a target 
+## Videos - an example using an autonomous vehicle to localize and pursue a target simultaneously using the MPC scheme in [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
