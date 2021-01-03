@@ -13,7 +13,7 @@ As we know Euler’s fomula is very ubiquitous in mathematics, physics, and engi
 
 $$e^{i\theta}=\cos(\theta)+i\sin(\theta)$$
 
-In the book “Linear Algebra and Its Applications”, Gilbert Strang shared an interesting story about the proof of the formula that: One day there was a letter came to MIT from a prisoner in New York, asking if Euler’s fomula was true? It is really astonishing. Three key functions of mathematics come together in such a graceful way.
+I never though how to prove this formula until seeing a simple proof with an interesting story behind in the book “Linear Algebra and Its Applications”, Gilbert Strang. One day there was a letter came to MIT from a prisoner in New York, asking if Euler’s fomula was true? It is really astonishing. Three key functions of mathematics come together in such a graceful way.
 
 <!--more-->
 
