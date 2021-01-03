@@ -5,7 +5,7 @@ permalink: /posts/2020/11/proof-euler/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
-  - Science story
+  - Scientific story
   - Mathematic
 ---
 
