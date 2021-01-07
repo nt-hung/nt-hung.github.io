@@ -14,7 +14,7 @@ Furthermore, the communications among the agents are constrained by a network to
 
 The consensus/synchronization problem is defined as finding a distributed control strategy for ${\bf u}_i({\bf x}_i,{\bf x}_j)$, where $j$ is in the set of the neighbors of $i$ s.t. asymtotically, the trajectories of all agents are synchronized (reach consensus), i.e. ${\bf x}_i(t)={\bf x}_j(t)$ for all $i,j \in \{1,...N\}$ as $t\to \infty$. 
 
-This consensus/synchronization problem appear in many applications involve in [cooperative control of multiple autonomous vehicle](https://nt-hung.github.io/research/cooperative-path-following/), [synchronization of robot's network], sensor network, and modeling of biology systems.    
+This consensus/synchronization problem appear in many applications involve in [cooperative control of multiple autonomous vehicle](https://nt-hung.github.io/research/cooperative-path-following/), [synchronization of robot's network](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1849806?journalCode=tcon20), sensor network, and modeling of biology systems.    
 
 ![](/images/research/digraph.png)
 
