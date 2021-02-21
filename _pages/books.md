@@ -13,7 +13,7 @@ This is a list of my favorite books that I really enjoyed reading them and belie
 -  Convex Optimization, by Lieven Vandenberghe and Stephen P. Boyd, 2004 
 -  ...
 
-## Control and network theory
+## Control theory
 
 -  Linear System Theory and Design, by Chi-Tsong Chen, 1984
 -  Nonlinear Systems, by Hassan K Khalil, 2002
