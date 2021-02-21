@@ -9,8 +9,8 @@ This is a list of my favorite books in the areas of control engineering and robo
 
 ## Applied mathematics
 
--  "Introduction to Linear Algebra, by Gilbert Strang", fourth edition, 2009
--  "Convex Optimization, by Lieven Vandenberghe and Stephen P. Boyd, 2004 
+-  Introduction to Linear Algebra, by Gilbert Strang, fourth edition, 2009
+-  Convex Optimization, by Lieven Vandenberghe and Stephen P. Boyd, 2004 
 
 ## Control and network theory
 
