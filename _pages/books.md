@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-## This is a list of my favorite books in the areas of control engineering, robotics, and applied mathematics that I like the most. 
+## This is a list of my favorite books in the areas of control engineering, robotics, and applied mathematics. They are well-written and very useful to build our background knowledge in the areas.
 
 
 -  Introduction to Linear Algebra, Gilbert Strang, fourth edition, 2009
@@ -16,3 +16,4 @@ author_profile: true
 -  Bayesian Bounds for Parameter Estimation and Nonlinear Filtering/Tracking, Harry L. Van Trees, 2007
 -  Lectures on Network Systems, Francisco Bullo, 2018
 -  ROS, robot programming: from the basic concept to practical programming and robot application, YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
+-  ...
