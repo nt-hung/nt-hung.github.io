@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-This is a list of my favorite books that I really enjoyed reading them and believe they are great sources to build our knowledge in the areas of control, estimation, optimization, and robotics.
+This is a list of my favorite books that I really enjoyed reading them and believe they are great materials to build our knowledge in the areas of control engineering and robotics.
 
 ## Applied mathematics
 
