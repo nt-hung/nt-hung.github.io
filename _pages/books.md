@@ -26,6 +26,7 @@ This is a list of my favorite books that I really enjoyed reading them and belie
 -  Detection, Estimation, and Modulation Theory: Detection, Estimation, and Linear Modulation Theory, by Harry L. Van Trees 1969
 -  Bayesian Bounds for Parameter Estimation and Nonlinear Filtering/Tracking, by Harry L. Van Trees, 2007
 -  ...
+
 ## Robotics
 
 -  ROS, robot programming: from the basic concept to practical programming and robot application, by YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
