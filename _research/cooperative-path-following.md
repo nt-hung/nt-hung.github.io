@@ -52,8 +52,12 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Vehicles with a Global Region of Attraction", The 11th IFAC
 	   Conference on Control Applications in Marine Systems, Robotics,
 	   and Vehicles--CAMS 2018, Opatija, Croatia. [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896318321888).
-## Videos - an example of circular formation with CPF
+## Videos - an example of circular formation with MPC-CPF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jDrVrIweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Videos - real trial CPF with multiple underwater autonomous vehicles
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkpvfibSad0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
