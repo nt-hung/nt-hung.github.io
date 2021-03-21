@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 - Vietnamese Control System and Robotics, July 2020 (online).
-    - **Title**: Cooperative Control of Multiple Vehicles: A Gentle Introduction and Practical Applications. [Slide](/files/pdf/Hung_VNCR_2020.pdf) - [Video](https://www.facebook.com/groups/1240254362700264/permalink/3179867735405574/)  
+    - **Title**: Cooperative Control of Multiple Vehicles: A Gentle Introduction and Practical Applications. [Slide](/files/pdf/presentation/Hung_VNCR_2020.pdf) - [Video](https://www.facebook.com/groups/1240254362700264/permalink/3179867735405574/)  
 - IFAC2020, Berlin, July 2020 (online).    
     - **Title**: Range-based Navigation and Target Localization: Observability Analysis and Guidelines for Motion Planning. [Slide](https://www.dropbox.com/s/qkwmucqrxvv0y83/Main_slide.pdf?dl=0) - [Video](https://www.youtube.com/watch?v=XS5U2FPjEXo&feature=youtu.be)
 - European control conference, Naples, Italy, June 2019. 
