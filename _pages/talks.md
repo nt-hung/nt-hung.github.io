@@ -4,6 +4,8 @@ title: "Recent talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+- European Marine robotics Network, 2021 (online).
+    - **Title**: Cooperative Distributed Estimation and Control of Multiple Autonomous Vehicles for Range-Based Underwater Target Localization and Pursuit [Slide](confidential) - [web](https://www.eumarinerobots.eu/news/fifth-coffee-eumr-webinar)  
 - Vietnamese Control System and Robotics, July 2020 (online).
     - **Title**: Cooperative Control of Multiple Autonomous Vehicles: A Gentle Introduction and Practical Applications. [Slide](/files/pdf/presentation/Hung_VNCR_2020.pdf) - [Video](https://www.facebook.com/groups/1240254362700264/permalink/3179867735405574/)  
 - IFAC2020, Berlin, July 2020 (online).    
