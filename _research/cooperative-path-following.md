@@ -16,8 +16,9 @@ in time.
 
 Although many path following methods have been developed over the last decade, the main challenge is how to handle constraints on the vehicles (e.g. limit on linear and angular velocities) and the constraints on the network topology and save the communication bandwidth.  
 
+<p align="center">
 ![](/images/research/CPF_illustration.png)
-
+</p>
 
 ## Contribution
 
