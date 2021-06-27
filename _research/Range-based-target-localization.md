@@ -16,12 +16,13 @@ In other situations, velocity and acceleration need to be determined as well. --
 Cooperative simultaneous target localization and pursuit (cooperative SLAP) is a problem defined for one or
 multiple autonomous robots/vehicles acting as mobile sensors to find the state of unknown moving target using some sort of information
 measured about the target. The state of the target typically includes the target’s position, velocity, and
-even possibly acceleration, depending on the model of the target adopted. The information about the target can be ranges, bearing, or both, depending on sensing capability of the robots.  
+even possibly acceleration, depending on the model of the target adopted. The information about the target can be ranges, bearings, or both, depending on sensing capability of the robots.  
 
+![](/images/research/navigation.png)
 
 ## Contributions
 
-We propose a cooperative distributed approach to solve the cooperative SLAP problem using only range information from the robots to the target. 
+We propose a cooperative distributed control and estimation strategy to solve the cooperative SLAP problem using only range measurements from the robots to the target. 
 
 ## Related publications
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
@@ -36,3 +37,7 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 ## Videos - an example using an autonomous vehicle to localize and pursue a target simultaneously using the MPC scheme in [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Videos - an example using multiple robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf) 
+
+<iframe width="560" height="315" src="https://youtu.be/J94cYoKW4y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

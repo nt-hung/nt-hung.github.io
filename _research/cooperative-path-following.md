@@ -52,16 +52,17 @@ International Journal of Robust Nonlinear Control, 2020. \
 	   Vehicles with a Global Region of Attraction", The 11th IFAC
 	   Conference on Control Applications in Marine Systems, Robotics,
 	   and Vehicles--CAMS 2018, Opatija, Croatia. [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896318321888).
+	   
 ## Videos - an example of circular formation with MPC-CPF  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4896) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jDrVrIweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Videos - real trial CPF with multiple marine autonomous vehicles [[Paper]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf)\
-Setup:\
+## Videos - real trial CPF with multiple marine autonomous vehicles [[Paper]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf)
+Experimental setup:
 - Robots: Medusa marine robots, developed by IST Lisbon.
 - Software components: Linux, ROS (C++, Python).
 - Navigation: GPS, DLV, AHRS.
-- Vehicle communication: wifi (UDP protocol).  
+- Vehicle communication network: wifi (UDP protocol).  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkpvfibSad0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
