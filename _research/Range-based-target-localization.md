@@ -18,7 +18,7 @@ multiple autonomous robots/vehicles acting as mobile sensors to find the state o
 measured about the target. The state of the target typically includes the target’s position, velocity, and
 even possibly acceleration, depending on the model of the target adopted. The information about the target can be ranges, bearings, or both, depending on sensing capability of the robots.  
 
-![](/images/research/navigation.png =300x250)
+![](/images/research/navigation.png=300x250)
 
 ## Contributions
 
