@@ -17,13 +17,13 @@ Cooperative simultaneous target localization and pursuit (cooperative SLAP) is a
 multiple autonomous robots/vehicles acting as mobile sensors to find the state of unknown moving target using some sort of information
 measured about the target. The state of the target typically includes the target’s position, velocity, and
 even possibly acceleration, depending on the model of the target adopted. The information about the target can be ranges, bearings, or both, depending on sensing capability of the robots.  
-
-![](/images/research/navigation.png=300x250)
-
+<img src="/images/research/navigation.png" width="200">
 ## Contributions
 
-We propose a cooperative distributed control and estimation strategy to solve the cooperative SLAP problem using only range measurements from the robots to the target. 
-
+We propose a two approaches to the range-based SLAP problems:
+- A centralized approach using MPC and Baysian Cramer Rao lower bound.
+- A distributed approach using tools from nonlinear control, distributed control, and distributed estimation.
+    
 ## Videos - an example using an autonomous vehicle to localize and pursue a target simultaneously using the MPC scheme in [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
