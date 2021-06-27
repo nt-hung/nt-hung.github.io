@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journals
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
-[[Preprint]](private). 
+[[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf). 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
 posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
