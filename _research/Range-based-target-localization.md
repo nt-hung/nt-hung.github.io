@@ -24,6 +24,25 @@ even possibly acceleration, depending on the model of the target adopted. The in
 
 We propose a cooperative distributed control and estimation strategy to solve the cooperative SLAP problem using only range measurements from the robots to the target. 
 
+## Videos - an example using an autonomous vehicle to localize and pursue a target simultaneously using the MPC scheme in [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Videos - an example using three robots to localize and pursue a moving target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf) 
+
+<iframe width="560" height="315" src="https://youtu.be/J94cYoKW4y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Videos - an example using 2 robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf)
+
+Experimental setup:
+- Robots: Medusa marine robots, developed by IST Lisbon.
+- Software components: Linux, ROS (C++, Python).
+- Navigation: GPS, DLV, AHRS.
+- Vehicle communication network: wifi (UDP protocol).  
+- Information to the target: ranges, measured by acoustic modems, provided by Evologics company.
+
+<iframe width="560" height="315" src="https://youtu.be/voMQCpJ-chs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Related publications
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf). 
@@ -33,11 +52,3 @@ posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2
 [[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]() - [[Videos]](https://www.youtube.com/watch?v=jXkh-W7ksyM).
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
 [[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]]().
-
-## Videos - an example using an autonomous vehicle to localize and pursue a target simultaneously using the MPC scheme in [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5fzQ0DSwtUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Videos - an example using multiple robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf) 
-
-<iframe width="560" height="315" src="https://youtu.be/J94cYoKW4y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
