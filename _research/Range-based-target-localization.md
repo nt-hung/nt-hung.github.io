@@ -1,5 +1,5 @@
 ---
-title: "Cooperative simultaneous target localization and pursuit"
+title: "Cooperative simultaneous target localization and pursuit with multiple robots"
 layout: single-portfolio
 excerpt: "<img src='/images/research/navigation.png' alt=''>"
 collection: research
