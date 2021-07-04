@@ -38,13 +38,13 @@ We propose a two approaches to the range-based SLAP problems:
 ## Videos - an example using 2 robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf)
 
 Experimental setup:
-- Robots: Medusa marine robots, developed by IST Lisbon.
+- Robots: Medusa-class autonomous marine robots, developed by IST Lisbon.
 - Software components: Linux, ROS (C++, Python).
 - Navigation: GPS, DLV, AHRS.
 - Vehicle communication network: wifi (UDP protocol).  
 - Information to the target: ranges, measured by acoustic modems, provided by Evologics company.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/voMQCpJ-chs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUWj-6alUgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Related publications
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
