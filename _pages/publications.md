@@ -4,10 +4,12 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## PhD thesis
+- Nguyen T. Hung "Cooperative control and estimation of multi-agent systems", IST Lisbon, August 2021.\
+[[Pdf]](/files/pdf/research/Hung_PHDThesis_full.pdf)
 ## Journals
-- Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
-[[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf). 
+- Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", IEEE Transactions on Control Systems Technology, accepted.\
+[[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf), [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Videos]](https://www.youtube.com/watch?v=J94cYoKW4y0&ab_channel=nt-hung). 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
 posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
@@ -18,7 +20,7 @@ International Journal of Robust Nonlinear Control, 2020. \
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, 2020. \
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
-- Nguyen T. Hung and DSOR team, "Theory, simulations, and experiments of path following guidance strategies for autonomous vehicles: Part I", to be submitted. \
+- Nguyen T. Hung and DSOR team, "Theory, simulations, and experiments of path following guidance strategies for autonomous vehicles: Part I", to be submitted very soon. \
 [[Preprint]](private). 
 
 ## Book chapters
@@ -30,7 +32,9 @@ multiple agent systems with event-triggered communications", International Journ
 	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa) - [[Videos]](https://www.youtube.com/watch?v=YkpvfibSad0). 
 
 ## Conferences
-- Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. [[Web]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0).
+- Rodrigo Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Motion Control Using Hybrid
+Acoustic-Optical Communication Networks", CAMS2021, accepted, [[Preprint]](/files/pdf/research/rodrigo_CAMS2021.pdf) - [[Videos]](https://www.youtube.com/watch?v=wSVyGIrWe5I&ab_channel=nt-hung).  
+- Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896320318838).
 - J. Quintas, Nguyen T. Hung, et al., "AUV path planning, navigation, and control using geophysical data," OCEANS 2019 - Marseille, Marseille, France, 2019, pp. 1-9. [[Web]](https://doi.org/10.1109/OCEANSE.2019.8867535).
 - Nguyen T. Hung, F. C. Rego and A. M. Pascoal, "Event-Triggered Communications for the Synchronization of Nonlinear Multi Agent Systems on Weight-Balanced Digraphs," 2019 18th European Control Conference (ECC), Naples, Italy, 2019, pp. 2713-2718. [[Web]](https://doi.org/10.23919/ECC.2019.8796277) - [[Code]]().
 - Nguyen T. Hung, F. Rego, N. Crasta, Antonio Pascoal, "Input-Constrained Path Following for Autonomous Marine
