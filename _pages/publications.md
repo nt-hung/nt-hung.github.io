@@ -4,9 +4,7 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
-## PhD thesis
-- Nguyen T. Hung "Cooperative control and estimation of multi-agent systems", IST Lisbon, August 2021.\
-[[Pdf]](/files/pdf/research/Hung_PHDThesis_full.pdf)
+
 ## Journals
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", IEEE Transactions on Control Systems Technology, accepted.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Videos]](https://www.youtube.com/watch?v=J94cYoKW4y0&ab_channel=nt-hung). 
