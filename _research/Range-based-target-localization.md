@@ -44,14 +44,14 @@ Experimental setup:
 - Vehicle communication network: wifi (UDP protocol).  
 - Information to the target: ranges, measured by acoustic modems, provided by Evologics company.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nUWj-6alUgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJ5szDelUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Related publications
-- Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit", conditionally accepted with minor revision at IEEE Transactions on Control System and Technology.\
-[[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf). 
+- Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit",  IEEE Transactions on Control System and Technology.\
+[[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Web]](https://ieeexplore.ieee.org/abstract/document/9530372) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Video]](https://www.youtube.com/watch?v=IJ5szDelUxs&t=8s&ab_channel=nt-hung). 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
 "Range-based target localization and pursuit with autonomous vehicles: An approach using
 posterior CRLB and model predictive control", Robotics and Autonomous Systems, 2020. \
 [[Preprint]](/files/pdf/research/RAS2020_preprint.pdf) - [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0921889020304486) - [[Code]]() - [[Videos]](https://www.youtube.com/watch?v=jXkh-W7ksyM).
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, to appear. \
-[[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]]().
+[[Preprint]](https://www.dropbox.com/s/90u31vku7omcrbc/IFAC2020.pdf?dl=0) - [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896320318838).
