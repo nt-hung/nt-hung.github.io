@@ -191,7 +191,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: blogs
     values:
       layout: single
       author_profile: true
