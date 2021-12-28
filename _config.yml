@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nguyen Tuan Hung"
 title_separator          : "-"
 name                     : &name "Nguyen Tuan Hung"
-description              : &description "PhD candidate in Control and Robotics"
+description              : &description "PhD, control and robotics enthusiast"
 url                      : https://nt-hung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nt-hung/nt-hung.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Nguyen Tuan Hung"
   avatar           : "profile.jpg"
-  bio              : "R&D in Control and Robotics"
+  bio              : "PhD, control and robotics enthusiast"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           :
