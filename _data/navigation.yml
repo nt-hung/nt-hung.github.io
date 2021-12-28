@@ -4,12 +4,12 @@ main:
     
   - title: "Research"
     url: /research/
-
-  - title: "Talks"
-    url: /talks/
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Talks"
+    url: /talks/
   
   - title: "Teaching"
     url: /teaching/
