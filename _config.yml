@@ -254,9 +254,9 @@ defaults:
         # Gallery
   - scope:
       path: ""
-      type: books
+      type: gallery
     values:
-      layout: book
+      layout: gallery
       author_profile: true
       share: true
 
