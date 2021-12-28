@@ -251,6 +251,15 @@ defaults:
       author_profile: true
       share: true
 
+        # Gallery
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: book
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
