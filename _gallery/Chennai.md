@@ -58,3 +58,4 @@ header:
   og_image: "gallery/Chennai/DSC02545.JPG"
 ---
 {% include gallery %}
+<!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
