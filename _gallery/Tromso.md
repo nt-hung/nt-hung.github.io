@@ -8,9 +8,7 @@ order_number: 6
    
 {% for image in site.static_files %}
 {% if image.path contains 'images/gallery/Tromso' %}
-
-![image]({{ image.path }} 'image'){ width=30% }
-
+<img src='{{ site.baseurl }}{{ image.path }}' alt='Tromso' title='Tromso' width="30%" >
 {% endif %}
 {% endfor %}
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
