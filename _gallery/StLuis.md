@@ -1,5 +1,5 @@
 ---
-title: "StLuis-USA-August-2018"
+title: "St. Luis-USA-August-2018"
 layout: single-portfolio
 excerpt: "<img src='/images/gallery/StLuis/DSC03619.JPG' alt=''>"
 collection: gallery
