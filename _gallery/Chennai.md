@@ -13,8 +13,8 @@ gallery:
     image_path: gallery/Chennai/DSC02548.JPG
     alt: "Chennai"
     title: "Chennai"
-  - url: gallery/Chennai/DSC02557.JPG
-    image_path: gallery/Chennai/DSC02557.JPG
+  - url: gallery/Chennai/DSC02555.JPG
+    image_path: gallery/Chennai/DSC02555.JPG
     alt: "Chennai"
     title: "Chennai"
   - url: gallery/Chennai/DSC_1789.JPG
@@ -37,8 +37,8 @@ gallery:
     image_path: gallery/Chennai/DSC_1804.JPG
     alt: "Chennai"
     title: "Chennai"     
-  - url: gallery/Chennai/DSC_1811.JPG
-    image_path: gallery/Chennai/DSC_1811.JPG
+  - url: gallery/Chennai/DSC_1803.JPG
+    image_path: gallery/Chennai/DSC_1803.JPG
     alt: "Chennai"
     title: "Chennai"     
   - url: gallery/Chennai/DSC_1825.JPG
@@ -54,13 +54,7 @@ gallery:
     alt: "Chennai"
     title: "Chennai"   
     
-
-
-
-    
-
-
 header:
-  og_image: "gallery/Chennai/DSC02939.JPG"
+  og_image: "gallery/Chennai/DSC02545.JPG"
 ---
 {% include gallery %}
