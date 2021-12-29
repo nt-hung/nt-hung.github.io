@@ -9,7 +9,7 @@ order_number: 6
 {% for image in site.static_files %}
 {% if image.path contains 'images/gallery/Tromso' %}
 
-![image]({{ image.path }} 'image')
+![image]({{ image.path }} 'image'){ width=30% }
 
 {% endif %}
 {% endfor %}
