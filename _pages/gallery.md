@@ -5,7 +5,7 @@ permalink: /gallery/
 author_profile: true
 ---
 
-I love history, geography, and culture. This gallery records the beauty of the world where I had chances to visit.
+I am interested in history, geography, and culture. This gallery records the beauty of the world where I had chances to visit.
 
 <nbsp>
 

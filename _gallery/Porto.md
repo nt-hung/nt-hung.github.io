@@ -1,7 +1,7 @@
 ---
 title: "Porto-Portugal-Jan-2018"
 layout: single-portfolio
-excerpt: "<img src='/images/Porto/DSC02960.JPG' alt=''>"
+excerpt: "<img src='/images/gallery/Porto/DSC02960.JPG' alt=''>"
 collection: gallery
 order_number: 100
 gallery:
