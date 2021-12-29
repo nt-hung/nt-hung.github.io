@@ -1,9 +1,9 @@
 ---
-title: "StLuis-Portugal-June-2016"
+title: "StLuis-USA-August-2018"
 layout: single-portfolio
 excerpt: "<img src='/images/gallery/StLuis/DSC03619.JPG' alt=''>"
 collection: gallery
-order_number: 60
+order_number: 2
 gallery:
   - url: gallery/StLuis/DSC03590.JPG
     image_path: gallery/StLuis/DSC03590.JPG
