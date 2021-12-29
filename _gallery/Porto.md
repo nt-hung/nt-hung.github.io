@@ -5,8 +5,8 @@ excerpt: "<img src='/images/gallery/Porto/DSC02960.JPG' alt=''>"
 collection: gallery
 order_number: 100
 gallery:
-  - url: gallery/Porto
-    image_path: gallery/Porto
+  - url: gallery/Porto/*.JPG
+    image_path: gallery/Porto/*.JPG
     alt: "Porto"
     title: "Porto"   
 
