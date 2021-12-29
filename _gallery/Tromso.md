@@ -13,9 +13,9 @@ order_number: 6
   ![Optional Text](/images/gallery/Tromso/DSC01189.JPG)
 
        
-<!-- {% for image in site.static_files %}
+{% for image in site.static_files %}
     {% if image.path contains 'images/gallery/Tromso' %}
     <img src='{{ site.baseurl }}{{ image.path }}' 
-         alt='image' >
+           alt='image' >
     {% endif %}
-{% endfor %} -->
+{% endfor %}
