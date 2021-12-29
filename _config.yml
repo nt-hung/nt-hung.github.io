@@ -184,6 +184,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # Defaults
@@ -256,7 +259,7 @@ defaults:
       path: ""
       type: gallery
     values:
-      layout: gallery
+      layout: single
       author_profile: true
       share: true
 
