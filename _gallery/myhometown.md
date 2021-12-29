@@ -1,7 +1,7 @@
 ---
 title: "My home town-Viet Nam-August-2016"
 layout: single-portfolio
-excerpt: "<img src='/images/gallery/Myhometown/DSC01838.JPG' alt=''>"
+excerpt: "<img src='/images/gallery/Myhometown/DSC01890.JPG' alt=''>"
 collection: gallery
 order_number: 1
 gallery:
@@ -43,6 +43,6 @@ gallery:
     title: "Myhometown"  
     
 header:
-  og_image: "gallery/Myhometown/DSC01889.JPG"
+  og_image: "gallery/Myhometown/DSC01890.JPG"
 ---
 {% include gallery %}
