@@ -16,6 +16,5 @@ gallery_porto:
 header:
   og_image: "gallery/Porto/DSC02939.JPG"
 ---
----
 # Porto - Portugal
 {% include gallery_porto %}
