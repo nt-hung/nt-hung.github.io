@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 permalink: /gallery/
-gallery:
+galleryPorto:
   - url: gallery/Porto/DSC02929.JPG
     image_path: gallery/Porto/DSC02929.JPG
     alt: "Porto"
@@ -21,7 +21,12 @@ gallery:
   - url: gallery/Porto/DSC02968.JPG
     image_path: gallery/Porto/DSC02968.JPG
     alt: "Porto"
-    title: "Porto"              
+    title: "Porto"
+  - url: gallery/Porto/DSC02960.JPG
+    image_path: gallery/Porto/DSC02960.JPG
+    alt: "Porto"
+    title: "Porto"        
+
 header:
   og_image: "gallery/Porto/DSC02939.JPG"
 ---
@@ -29,4 +34,4 @@ header:
 # Porto - Portugal
 
 
-{% include gallery %}
+{% include galleryPorto %}
