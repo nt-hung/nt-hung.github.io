@@ -1,5 +1,5 @@
 ---
-title: "My home town-Viet Nam-August-2016"
+title: "My hometown-Viet Nam-August-2016"
 layout: single-portfolio
 excerpt: "<img src='/images/gallery/Myhometown/DSC01890.JPG' alt=''>"
 collection: gallery
