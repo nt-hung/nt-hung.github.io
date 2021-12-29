@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Gallery"
+title: "Photography"
 permalink: /gallery/
 author_profile: true
 ---
 
-I am interested in history, geography, and culture. This gallery records the beauty of the world where I had chances to visit.
+I love to go to new places, see how local people live and work and learn their history, geography, and couture. Here is the collections of pictures that I have taken over the years of exploring the world. 
 
 <nbsp>
 
