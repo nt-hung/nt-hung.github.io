@@ -1,7 +1,7 @@
 ---
 title: "Tromso-Norway-April-2016"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Tromso/DSC01189.JPG' alt=''>](nt-hung.github.io/gallery/Tromso)"
+excerpt: "[<img src='/images/gallery/Tromso/DSC01189.JPG' alt=''>](https://nt-hung.github.io/gallery/Tromso)"
 collection: gallery
 order_number: 6
 ---
