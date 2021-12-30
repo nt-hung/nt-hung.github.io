@@ -5,7 +5,7 @@ permalink: /gallery/
 author_profile: true
 ---
 
-I love to go to new places, see how local people live and work, and learn their history, geography, and couture. Here are collections that I have taken over the years of exploring the world. 
+I love to explore new lands to learn how people there live and work, their history, geography, and culture. Here are collections that I have taken over the years of "exploring the world". 
 
 <nbsp>
 
