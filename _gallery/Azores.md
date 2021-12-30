@@ -2,7 +2,7 @@
 title: "Azores-Portugal-June-2016"
 layout: single-portfolio
 excerpt: "[<img src='/images/gallery/Azores/DSC01540.JPG' alt=''>](https://nt-hung.github.io/gallery/Azores/)"
-collection: research
+collection: gallery
 order_number: 3
 gallery:
   - url: gallery/Azores/DSC01540.JPG
