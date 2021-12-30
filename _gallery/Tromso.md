@@ -11,7 +11,7 @@ order_number: 6
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Tromso, Norway" width="250" title="Tromso, Norway"
+        alt="Tromso, Norway" width="280" title="Tromso, Norway"
     >
 </a>
 {% endif %}
