@@ -1,7 +1,7 @@
 ---
 title: "St. Luis-USA-August-2018"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/StLuis/DSC03619.JPG' alt=''>](nt-hung.github.io/gallery/StLuis)"
+excerpt: "[<img src='/images/gallery/StLuis/DSC03619.JPG' alt=''>](https://nt-hung.github.io/gallery/StLuis)"
 collection: gallery
 order_number: 2
 gallery:
