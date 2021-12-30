@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: "Collections"
 permalink: /gallery/
 author_profile: true
 ---
 
-My research tackles problems involving the cooperative control and estimation of networked multi-agent systems under communication constraints. Each agent can be a mobile ground robot, an autonomous arial/marine vehicle (AUV), or simply, a sensor node. Applications include formation control of multiple autonomous vehicles, cooperative target localization and pursuit, synchronization of networked multiple robots, etc. The solutions proposed possess the following properties:
-
-- distributed, i.e. agents (robots) only communicate with their neighbors. 
-- event-triggered communications, i.e. agents only communicate with their neighbors when found necessary. 
+I love to explore new lands to learn how people there live and work as well as their history and culture. Here are collections that I have taken over the years of "exploring the world". 
 
 <nbsp>
 
