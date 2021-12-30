@@ -2,7 +2,7 @@
 title: "Azores-Portugal-June-2016"
 layout: single-portfolio
 excerpt: "<img src='/images/gallery/Azores/DSC01540.JPG' alt=''>"
-collection: gallery
+collection: research
 order_number: 3
 gallery:
   - url: gallery/Azores/DSC01540.JPG
