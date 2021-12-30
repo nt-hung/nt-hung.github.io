@@ -1,7 +1,7 @@
 ---
 title: "Chennai-India-March-2017"
 layout: single-portfolio
-excerpt: "<img src='/images/gallery/Chennai/DSC02541.JPG' alt=''>"
+excerpt: "[<img src='/images/gallery/Chennai/DSC02541.JPG' alt=''>](nt-hung.github.io/gallery/Chennai/)"
 collection: gallery
 order_number: 5
 gallery:
