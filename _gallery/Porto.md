@@ -1,7 +1,7 @@
 ---
 title: "Porto-Portugal-Jan-2018"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Porto/DSC02960.JPG' alt=''>](nt-hung.github.io/galleryPorto)"
+excerpt: "[<img src='/images/gallery/Porto/DSC02960.JPG' alt=''>](https://nt-hung.github.io/galleryPorto)"
 collection: gallery
 order_number: 4
 gallery:
