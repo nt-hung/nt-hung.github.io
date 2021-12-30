@@ -1,7 +1,7 @@
 ---
 title: "Tromso-Norway-April-2016"
 layout: single-portfolio
-excerpt: "<a href='/images/gallery/Tromso/DSC01189.JPG'> <img src='/images/gallery/Tromso/DSC01189.JPG' alt=''> </a>"
+excerpt: "<img src='/images/gallery/Tromso/DSC01189.JPG' alt=''>"
 collection: gallery
 order_number: 6
 ---
