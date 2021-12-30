@@ -11,7 +11,7 @@ order_number: 7
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Paris, France" width="280" title="Paris, France"
+        alt="Paris, France" width="265" title="Paris, France"
     >
 </a>
 {% endif %}
