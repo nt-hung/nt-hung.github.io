@@ -1,7 +1,7 @@
 ---
 title: "My hometown-Viet Nam-August-2016"
 layout: single-portfolio
-excerpt: "<img src='/images/gallery/Myhometown/DSC01890.JPG' alt=''>"
+excerpt: "[<img src='/images/gallery/Myhometown/DSC01890.JPG' alt=''>](nt-hung.github.io/gallery/Myhometown)"
 collection: gallery
 order_number: 1
 gallery:
