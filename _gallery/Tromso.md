@@ -8,12 +8,10 @@ order_number: 6
 <p float="left">   
 {% for image in site.static_files %}
 {% if image.path contains 'images/gallery/Tromso' %}
-<img src='{{ site.baseurl }}{{ image.path }}' alt='Tromso' title='Tromso' width="245" />
-
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Ancient Bristlecone Pine Forest, USA"
+        alt="Tromso, Norway" width="245"
     >
 </a>
 {% endif %}
