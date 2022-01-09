@@ -1,17 +1,17 @@
 ---
-title: "Bangkok-Thailand-Jan-2016"
+title: "Montpellier-France-Jan-2016"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Bangkok/DSC00694.JPG' alt=''>](https://nt-hung.github.io/gallery/Bangkok)"
+excerpt: "[<img src='/images/gallery/Monpelier/DSC03793 (1280x960).jpg' alt=''>](https://nt-hung.github.io/gallery/Monpelier)"
 collection: gallery
 order_number: 6
 ---
 <p float="left">   
 {% for image in site.static_files %}
-{% if image.path contains 'images/gallery/Bangkok' %}
+{% if image.path contains 'images/gallery/Monpelier' %}
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Bangkok, Thailand" width="245" title="Bangkok, Thailand"
+        alt="Monpelier, France" width="245" title="Monpelier, France"
     >
 </a>
 {% endif %}
