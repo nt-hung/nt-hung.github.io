@@ -1,17 +1,17 @@
 ---
-title: "Pompei-Italy-July-2018"
+title: "Chicago-USA-August-2018"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Pompei/DSC00007.jpg' alt=''>](https://nt-hung.github.io/gallery/Pompei)"
+excerpt: "[<img src='/images/gallery/Chicago/DSC00007.jpg' alt=''>](https://nt-hung.github.io/gallery/Chicago)"
 collection: gallery
-order_number: 10
+order_number: 11
 ---
 <p float="left">   
 {% for image in site.static_files %}
-{% if image.path contains 'images/gallery/Pompei' %}
+{% if image.path contains 'images/gallery/Chicago' %}
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Pompei, Italy" width="245" title="Pompei, Italy"
+        alt="Chicago, USA" width="245" title="Chicago, USA"
     >
 </a>
 {% endif %}
