@@ -1,17 +1,17 @@
 ---
-title: "Montpellier-France-Jan-2019"
+title: "Naples-Italy-August-2019"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Monpelier/DSC03793 (1280x960).jpg' alt=''>](https://nt-hung.github.io/gallery/Monpelier)"
+excerpt: "[<img src='/images/gallery/Naples/DSC_0437.jpg' alt=''>](https://nt-hung.github.io/gallery/Naples)"
 collection: gallery
-order_number: 6
+order_number: 13
 ---
 <p float="left">   
 {% for image in site.static_files %}
-{% if image.path contains 'images/gallery/Monpelier' %}
+{% if image.path contains 'images/gallery/Naples' %}
 <a href='{{ site.baseurl }}{{ image.path }}'>
     <img 
         src='{{ site.baseurl }}{{ image.path }}'
-        alt="Monpelier, France" width="245" title="Monpelier, France"
+        alt="Naples, Italy" width="245" title="Naples, Italy"
     >
 </a>
 {% endif %}
