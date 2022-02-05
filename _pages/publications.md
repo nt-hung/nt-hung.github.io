@@ -4,7 +4,7 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
-
+Here is the list of publications produced from my PhD work at [Institute for Systems and Robotics, Tecnicó, Lisbon](https://welcome.isr.tecnico.ulisboa.pt/IST) 
 ## Journals
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit",  IEEE Transactions on Control System and Technology, 2021.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Web]](https://ieeexplore.ieee.org/abstract/document/9530372) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Video]](https://www.youtube.com/watch?v=IJ5szDelUxs&t=8s&ab_channel=nt-hung). 
