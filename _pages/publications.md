@@ -22,9 +22,9 @@ multiple agent systems with event-triggered communications", International Journ
 Potes, Luis Sebastiao, Antonio Pascoal, " A review of path following control strategies for autonomous robotic vehicles:
 theory, simulations, and experiments", submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
-- Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", in preparation.\
+- Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
-- Nguyen Hung et al.  "Distributed Cooperative and Control with Event-triggered communication", in preparation.\
+- Nguyen Hung et al.  "Distributed Cooperative Estimation and Control with Event-triggered communications", to be submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
 
 ## Book chapters
