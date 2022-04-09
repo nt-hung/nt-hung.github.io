@@ -24,7 +24,7 @@ In other situations, velocity and acceleration need to be determined as well. --
 - Simulation toolboxes testing path following methods
     - [[Matlab]](https://github.com/hungrepo/path-following-Matlab)
     - [[ROS/Gazebo]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
-- Experience shared with marine robots
+- Experience shared with field trials with several types of marine robots
 
 ## Videos - path following toolbox with Matlab
 
