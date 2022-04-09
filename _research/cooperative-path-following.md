@@ -1,5 +1,5 @@
 ---
-title: "Cooperative path following of multiple autonomous vehicles"
+title: "Cooperative path following"
 layout: single-portfolio
 excerpt: "<img src='/images/research/circle_MPC1_mission.png' alt=''>"
 collection: research

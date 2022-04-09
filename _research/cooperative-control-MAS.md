@@ -1,5 +1,5 @@
 ---
-title: "Consensus/synchronization of nonlinear multi-agent systems"
+title: "Consensus/synchronization of multi-agent systems"
 layout: single-portfolio
 excerpt: "<img src='/images/research/digraph.png' alt=''>"
 collection: research

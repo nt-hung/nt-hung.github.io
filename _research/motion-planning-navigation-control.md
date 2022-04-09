@@ -1,9 +1,9 @@
 ---
-title: "motion planning, navigation, and control of robotic vehicles"
+title: "autonomous robotic vehicles"
 layout: single-portfolio
-excerpt: "<img src='/images/research/navigation.png' alt=''>"
+excerpt: "<img src='/images/research/all_methods.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 1
 ---
 
 <!-- Range-based navigation is defined for an agent, for example, a scuba-diver or
@@ -28,7 +28,7 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 ## Videos - path following toolbox with Matlab
 
-<iframe width="560" height="315" src="https://youtu.be/XutfsXijHPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XutfsXijHPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <!-- ## Videos - path following with ROS/Gazebo  
 
