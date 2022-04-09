@@ -15,7 +15,7 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 
 <p align="center">
-<img src="/images/research/navigation.png" width="400">
+<img src="/images/research/all_methods.png" width="400">
 </p>
 
 ## Contributions
