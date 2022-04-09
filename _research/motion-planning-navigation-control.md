@@ -1,5 +1,5 @@
 ---
-title: "autonomous robotic vehicles"
+title: "Autonomous robotic vehicles"
 layout: single-portfolio
 excerpt: "<img src='/images/research/all_methods.png' alt=''>"
 collection: research
