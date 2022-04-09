@@ -18,8 +18,14 @@ International Journal of Robust Nonlinear Control, 2020. \
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, 2020. \
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
-- Nguyen T. Hung and DSOR team, "Theory, simulations, and experiments of path following guidance strategies for autonomous vehicles: Part I", to be submitted very soon. \
-[[Preprint]](private). 
+- Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
+Potes, Luis Sebastiao, Antonio Pascoal, " A review of path following control strategies for autonomous robotic vehicles:
+theory, simulations, and experiments", submitted.\
+[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
+- Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", in preparation.\
+[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
+- Nguyen Hung et al.  "Distributed Cooperative and Control with Event-triggered communication", in preparation.\
+[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
 
 ## Book chapters
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio

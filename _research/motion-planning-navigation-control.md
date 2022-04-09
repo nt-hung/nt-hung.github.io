@@ -30,16 +30,9 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XutfsXijHPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <!-- ## Videos - path following with ROS/Gazebo  
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/J94cYoKW4y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; %clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/IJ5szDelUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; % clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
 ## Related publications
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
 Potes, Luis Sebastiao, Antonio Pascoal, " A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments, under review at Robotic and Autonomous Systems.\
+theory, simulations, and experiments", submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
  
