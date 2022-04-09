@@ -5,7 +5,6 @@ permalink: /books/
 author_profile: true
 ---
 
-Hello
 This is a list of my favorite books that I really enjoyed reading them and believe they are great materials to build our background in the areas of control engineering and robotics.
 
 ## Applied mathematics

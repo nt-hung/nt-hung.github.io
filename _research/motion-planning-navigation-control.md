@@ -22,13 +22,19 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 - A technical review of path following methods for autonomous robotic vehicles, covering a wide variety of methods from Lyapunov-based to Nonlinear Model Predictive Control
 - Simulation toolboxes testing path following methods
-    - [[Matlab]](https://github.com/hungrepo/path-following-Matlab)
-    - [[ROS/Gazebo]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
+    - [Matlab](https://github.com/hungrepo/path-following-Matlab)
+    - [ROS/Gazebo](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
 - Experience shared with field trials with several types of marine robots
 
-## Videos - path following toolbox with Matlab
+## Videos - path following toolbox with Matlab [link](https://github.com/hungrepo/path-following-Matlab)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XutfsXijHPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Videos - path following toolbox with ROS/Gazebo [link](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
+
+<p align="center">
+<img src="/images/research/Gazebo.gif" width="400">
+</p>
 
 ## Related publications
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
