@@ -14,9 +14,9 @@ Doppler Velocity Log (DVL)), then only the position of the AUV needs to be deter
 In other situations, velocity and acceleration need to be determined as well. -->
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="/images/research/all_methods.png" width="400">
-</p>
+</p> -->
 
 ## Contributions
 
