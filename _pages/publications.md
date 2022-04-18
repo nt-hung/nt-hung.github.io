@@ -6,6 +6,10 @@ author_profile: true
 ---
 Here is the list of publications produced from my PhD work at [Institute for Systems and Robotics, Tecnicó, Lisbon](https://welcome.isr.tecnico.ulisboa.pt/IST) 
 ## Journals
+- Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
+Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
+theory, simulations, and experiments", 2022, arXiv preprint arXiv:2204.07319, 2022, doi:10.48550/ARXIV.2204.07319.\
+[[Preprint]](https://arxiv.org/abs/2204.07319) - [[Web]](https://arxiv.org/abs/2204.07319) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit",  IEEE Transactions on Control System and Technology, 2021.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Web]](https://ieeexplore.ieee.org/abstract/document/9530372) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Video]](https://www.youtube.com/watch?v=IJ5szDelUxs&t=8s&ab_channel=nt-hung). 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
@@ -18,10 +22,7 @@ International Journal of Robust Nonlinear Control, 2020. \
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, 2020. \
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
-- Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
-Potes, Luis Sebastiao, Antonio Pascoal, " A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments", submitted.\
-[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
+ 
 - Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
 - Nguyen Hung et al.  "Distributed Cooperative Estimation and Control with Event-triggered communications", to be submitted.\

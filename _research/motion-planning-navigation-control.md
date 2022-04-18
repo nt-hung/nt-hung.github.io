@@ -38,7 +38,6 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 ## Related publications
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
-Potes, Luis Sebastiao, Antonio Pascoal, " A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments", submitted.\
-[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
- 
+Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
+theory, simulations, and experiments", 2022, arXiv preprint arXiv:2204.07319, 2022, doi:10.48550/ARXIV.2204.07319.\
+[[Preprint]](https://arxiv.org/abs/2204.07319) - [[Web]](https://arxiv.org/abs/2204.07319) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
