@@ -5,7 +5,7 @@ permalink: /gallery/
 author_profile: true
 ---
 
-I love to visit new places to learn history, culture, and geography. Here are collections that I have taken over the years of "exploring the world". 
+I love to visit new places to learn history, culture, and geography. Here are some collections that I have taken over the years of "exploring the world". 
 
 <nbsp>
 

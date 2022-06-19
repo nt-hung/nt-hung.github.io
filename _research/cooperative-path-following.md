@@ -1,15 +1,15 @@
 ---
-title: "Cooperative path following"
+title: "Cooperative path following of multiple autonomous vehicles"
 layout: single-portfolio
 excerpt: "<img src='/images/research/circle_MPC1_mission.png' alt=''>"
 collection: research
 order_number: 60
 ---
 
-Cooperative path following (CPF) is a typical formation control problem, defined as steering a group of autonomous
+Cooperative path following (CPF) is a typical formation control problem, defined as steering a group of autonomous robotic
 vehicles along given spatial paths while holding a desired inter-vehicle formation pattern.
 An example of CPF is illustrated in the figure below. In this setup, each vehicle is dedicated
-with a local task, i.e. converge to and follow its preassigned path, while
+with a local task, i.e. converge to and follow its pre-assigned path, while
 cooperating with other vehicles via a wireless communication network to position itself
 relative to other vehicles such that all vehicles are aligned in a triangular formation
 in time.

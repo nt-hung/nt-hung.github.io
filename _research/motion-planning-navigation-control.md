@@ -32,9 +32,7 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 ## Videos - path following toolbox with ROS/Gazebo [link](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
 
-<p align="center">
-<img src="/images/research/Gazebo.gif" width="400">
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihm4qh-bKvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Related publications
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
