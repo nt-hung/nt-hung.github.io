@@ -19,15 +19,19 @@ This is a list of my favorite books that I really enjoyed reading them and belie
 -  Nonlinear Systems, by Hassan K Khalil, 2002
 -  Model Predictive Control: Theory, Computation, and Design, by James B. Rawlings, David Q. Mayne, and Moritz M. Diehl, 2017
 -  Lectures on Network Systems, by Francisco Bullo, 2018
+-  Multivariable Feedback Control: Analysis and Design, by Postlethwaite and Sigurd Skogestad, 1996
+-  Robust and Optimal Control, by KEMIN ZHOU with JOHN C. DOYLE and KEITH GLOVER, 1996
 -  ...
 
 ## Estimation theory
 
 -  Detection, Estimation, and Modulation Theory: Detection, Estimation, and Linear Modulation Theory, by Harry L. Van Trees 1969
 -  Bayesian Bounds for Parameter Estimation and Nonlinear Filtering/Tracking, by Harry L. Van Trees, 2007
+-  Decentralized Estimation and Control for Multisensor Systems. CRC Press, 1998, by Arthur GO Mutambara. 
 -  ...
 
 ## Robotics
 
 -  ROS, robot programming: from the basic concept to practical programming and robot application, by YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
+-  Probabilistic Robotics, by Dieter Fox, Sebastian Thrun, and Wolfram Burgard, 2005
 -  ...
