@@ -20,7 +20,7 @@ In other situations, velocity and acceleration need to be determined as well. --
 
 ## Contributions
 
-- A technical review of path following methods for autonomous robotic vehicles, covering a wide variety of methods from Lyapunov-based to Nonlinear Model Predictive Control
+- A study on path following control methods for autonomous robotic vehicles, covering a wide variety techniques based on Lyapunov stability theory or optimization based techniques such as Nonlinear Model Predictive Control
 - Simulation toolboxes testing path following methods
     - [Matlab](https://github.com/hungrepo/path-following-Matlab)
     - [ROS/Gazebo](https://github.com/dsor-isr/Paper-PathFollowingSurvey) 
@@ -37,5 +37,5 @@ In other situations, velocity and acceleration need to be determined as well. --
 ## Related publications
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
 Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments", 2022, arXiv preprint arXiv:2204.07319, 2022, doi:10.48550/ARXIV.2204.07319.\
-[[Preprint]](https://arxiv.org/abs/2204.07319) - [[Web]](https://arxiv.org/abs/2204.07319) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
+theory, simulations, and experiments", 2022, Journal of Field Robotics, https://doi.org/10.1002/rob.22142.\
+[[Preprint]](/files/pdf/research/JFR2022_preprint.pdf) - [[Web]](https://doi.org/10.1002/rob.22142) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).

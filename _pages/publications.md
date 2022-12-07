@@ -8,8 +8,8 @@ Here is the list of publications produced from my PhD work at [Institute for Sys
 ## Journals
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
 Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments", 2022, arXiv preprint arXiv:2204.07319, 2022, doi:10.48550/ARXIV.2204.07319.\
-[[Preprint]](https://arxiv.org/abs/2204.07319) - [[Web]](https://arxiv.org/abs/2204.07319) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
+theory, simulations, and experiments", 2022, Journal of Field Robotics, https://doi.org/10.1002/rob.22142.\
+[[Preprint]](/files/pdf/research/JFR2022_preprint.pdf) - [[Web]](https://doi.org/10.1002/rob.22142) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit",  IEEE Transactions on Control System and Technology, 2021.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Web]](https://ieeexplore.ieee.org/abstract/document/9530372) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Video]](https://www.youtube.com/watch?v=IJ5szDelUxs&t=8s&ab_channel=nt-hung). 
 - Nguyen T. Hung, N. Crasta, David Moreno-Salinas, António M. Pascoal, Tor A. Johansen,
