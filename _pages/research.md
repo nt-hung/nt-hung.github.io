@@ -10,7 +10,7 @@ My research tackles problems involving motion planing, control, and estimation o
 - distributed, i.e. agents (e.g. robots, vehicles) only communicate with their neighbors. 
 - event-triggered communications, i.e. agents only communicate with their neighbors when found necessary. 
 
-Some algorithms developed have been tested succefully with real ground and marine autonomous vehicles, that can be seen in research pages.
+Some algorithms developed have been tested succefully with real ground and marine robotic vehicles, that can be seen in research pages.
 <nbsp>
 
 {% include base_path %}

@@ -8,7 +8,7 @@ Here is the list of publications produced from my PhD work at [Institute for Sys
 ## Journals
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
 Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
-theory, simulations, and experiments", 2022, Journal of Field Robotics, https://doi.org/10.1002/rob.22142.\
+theory, simulations, and experiments", Journal of Field Robotics, 2022.\
 [[Preprint]](/files/pdf/research/JFR2022_preprint.pdf) - [[Web]](https://doi.org/10.1002/rob.22142) - [[Code]](https://github.com/dsor-isr/Paper-PathFollowingSurvey) - [[Video]](https://nt-hung.github.io/research/motion-planning-navigation-control/).
 - Nguyen T. Hung, Francisco Rego, Antonio M. Pascoal, "Cooperative distributed estimation and control of multiple autonomous vehicles for range-based underwater target localization and pursuit",  IEEE Transactions on Control System and Technology, 2021.\
 [[Preprint]](/files/pdf/research/IEEE_TCST_preprint.pdf) - [[Web]](https://ieeexplore.ieee.org/abstract/document/9530372) - [[Code]](https://github.com/hungrepo/cooperative-distributed-range-based-SLAP) - [[Video]](https://www.youtube.com/watch?v=IJ5szDelUxs&t=8s&ab_channel=nt-hung). 
@@ -22,12 +22,12 @@ International Journal of Robust Nonlinear Control, 2020. \
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, 2020. \
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
- 
-- Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
-[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
-- Nguyen Hung et al.  "Distributed Cooperative Estimation and Control with Event-triggered communications", to be submitted.\
+  
+- Nguyen Hung et al.  "SLAP - an algorithm for target localization and pursuit with autonomous mobile robots".\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
 
+- Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
+[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]]().
 ## Book chapters
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
