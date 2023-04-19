@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hung Nguyen"
+title                    : "Nguyen Hung"
 title_separator          : "-"
-name                     : &name "Hung Nguyen"
+name                     : &name "Nguyen Tuan Hung"
 description              : &description "PhD, control and robotics enthusiast"
 url                      : https://nt-hung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ social:
 
 # Site Author
 author:
-  name             : "Hung T. Nguyen"
+  name             : "Nguyen T. Hung"
   avatar           : "profile.jpg"
   bio              : "PhD, control and robotics enthusiast"
   location         : "Lisbon, Portugal"
