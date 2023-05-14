@@ -35,7 +35,7 @@ We propose a two approaches to the range-based SLAP problems:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J94cYoKW4y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Videos - an example using 2 robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf)
+## Experimental results (2023) - an example using 2 robots to localize and pursue an underwater target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf)
 
 Experimental setup:
 - Robots: Medusa-class autonomous marine robots, developed by IST Lisbon.
@@ -43,6 +43,10 @@ Experimental setup:
 - Navigation: GPS, DLV, AHRS.
 - Vehicle communication network: wifi (UDP protocol).  
 - Information to the target: ranges, measured by acoustic modems, provided by Evologics company.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LR4WSJHyz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Experimental results (2021) - an example using 2 robots to localize and pursue a target [[Paper]](/files/pdf/research/IEEE_TCST_preprint.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IJ5szDelUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
