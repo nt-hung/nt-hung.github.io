@@ -28,6 +28,7 @@ multiple agent systems with event-triggered communications", International Journ
 
 - Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]]().
+
 ## Book chapters
 - Francisco C. Rego, Nguyen T. Hung, Colin N. Jones, Antonio
 	   M. Pascoal and A. Pedro Aguiar, Chapter 8: "Cooperative Path-
