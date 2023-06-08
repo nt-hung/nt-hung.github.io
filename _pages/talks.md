@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Recent talks and presentations"
+title: "Recent invited talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-- European Marine Robotics Network, April 2021 (online).
+- KAUST Research Conference on Robotics and Autonomy 2023, Saudi Arabia.
+    - **Title**: Cooperative Distributed Estimation and Control of Multiple Autonomous Vehicles for Range-Based Underwater Target Localization and Pursuit. [Slide](/files/pdf/presentation/EUMR_2021.pdf) - [Web](https://www.eumarinerobots.eu/news/fifth-coffee-eumr-webinar)  
+- European Marine Robotics Network, April 2021 .
     - **Title**: Cooperative Distributed Estimation and Control of Multiple Autonomous Vehicles for Range-Based Underwater Target Localization and Pursuit. [Slide](/files/pdf/presentation/EUMR_2021.pdf) - [Web](https://www.eumarinerobots.eu/news/fifth-coffee-eumr-webinar)  
 - Vietnamese Control System and Robotics, July 2020 (online).
     - **Title**: Cooperative Control of Multiple Autonomous Vehicles: A Gentle Introduction and Practical Applications. [Slide](/files/pdf/presentation/Hung_VNCR_2020.pdf) - [Video](https://www.facebook.com/groups/1240254362700264/permalink/3179867735405574/)  
