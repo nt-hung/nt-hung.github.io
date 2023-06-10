@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Recent invited talks and presentations"
+title: "Recent talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-- KAUST Research Conference on Robotics and Autonomy 2023, Saudi Arabia.
+- KAUST Research Conference on Robotics and Autonomy 2023, Saudi Arabia (invited).
+    - **Title**: Range-based underwater target localization and pursuit with cooperative marine robots.  [Web](https://cemse.kaust.edu.sa/robotokaust)  
+- European Marine Robotics Network, April 2021 (invited).
     - **Title**: Cooperative Distributed Estimation and Control of Multiple Autonomous Vehicles for Range-Based Underwater Target Localization and Pursuit. [Slide](/files/pdf/presentation/EUMR_2021.pdf) - [Web](https://www.eumarinerobots.eu/news/fifth-coffee-eumr-webinar)  
-- European Marine Robotics Network, April 2021 .
-    - **Title**: Cooperative Distributed Estimation and Control of Multiple Autonomous Vehicles for Range-Based Underwater Target Localization and Pursuit. [Slide](/files/pdf/presentation/EUMR_2021.pdf) - [Web](https://www.eumarinerobots.eu/news/fifth-coffee-eumr-webinar)  
-- Vietnamese Control System and Robotics, July 2020 (online).
+- Vietnamese Control System and Robotics, July 2020.
     - **Title**: Cooperative Control of Multiple Autonomous Vehicles: A Gentle Introduction and Practical Applications. [Slide](/files/pdf/presentation/Hung_VNCR_2020.pdf) - [Video](https://www.facebook.com/groups/1240254362700264/permalink/3179867735405574/)  
 - IFAC2020, Berlin, July 2020 (online).    
     - **Title**: Range-based Navigation and Target Localization: Observability Analysis and Guidelines for Motion Planning. [Slide](https://www.dropbox.com/s/qkwmucqrxvv0y83/Main_slide.pdf?dl=0) - [Video](https://www.youtube.com/watch?v=XS5U2FPjEXo&feature=youtu.be)
