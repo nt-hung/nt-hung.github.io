@@ -7,7 +7,7 @@ author_profile: true
 Here is the list of publications produced from my PhD work at [Institute for Systems and Robotics, Tecnicó, Lisbon](https://welcome.isr.tecnico.ulisboa.pt/IST) 
 ## Journals
 - Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, "Target localization and pursuit with networked robotic
-vehicles: theory, simulation, and experiments", Journal of Field Robotics, 2024.\
+vehicles: theory, simulation, and experiments", Journal of Field Robotics, 2024 (accepted).\
 [[Preprint]](/files/pdf/research/JFR2024_SLAP.pdf) - [[Web]]() - [[Code]](https://github.com/hungrepo/slap-etc) - [[Video]](https://www.youtube.com/watch?v=4LR4WSJHyz8).
 - Nguyen Hung, Francisco Rego, Joao Quintas, Joao Cruz, Marcelo Jacinto, David Souto, Andre
 Potes, Luis Sebastiao, Antonio Pascoal, "A review of path following control strategies for autonomous robotic vehicles:
