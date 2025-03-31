@@ -1,7 +1,7 @@
 ---
 title: 'The history of optimal control - Part I'
 date: 2025-1-01
-permalink: /posts/2020/11/proof-euler/
+permalink: /posts/2020/11/history_optimal_control_part_I/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
