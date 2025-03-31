@@ -12,11 +12,12 @@ tags:
 
 Nhân dịp chuẩn bị tài liệu cho một seminar về optimal control ứng dụng trong autonomous robotic vehicles, xin chia sẻ cùng mọi người một chút hiểu biết mang tính lịch sử, hy vọng thú vị và hữu ích cho ai muốn tham khảo một góc nhìn tổng quan về topic này.
 
+<!--more-->
+
 <p align="center">
-<img src="/images/posts/optimal_control/map_part_I.jpg" width="400">
+<img src="/images/posts/optimal_control/map_part_I.jpg" width="700">
 </p>
 
-<!--more-->
 
 ## Phần 1: Thời Hiện Đại (1950s - nay)
 
