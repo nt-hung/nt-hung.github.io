@@ -13,7 +13,7 @@ tags:
 Nhân dịp chuẩn bị tài liệu cho một seminar về optimal control ứng dụng trong autonomous robotic vehicles, xin chia sẻ cùng mọi người một chút hiểu biết mang tính lịch sử, hy vọng thú vị và hữu ích cho ai muốn tham khảo một góc nhìn tổng quan về topic này.
 
 <p align="center">
-<img src="/images/posts/optimal_control/map_of_part_I.jpg" width="400">
+<img src="/images/posts/optimal_control/map_part_I.jpg" width="400">
 </p>
 
 <!--more-->

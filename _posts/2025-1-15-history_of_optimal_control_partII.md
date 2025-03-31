@@ -17,7 +17,7 @@ tags:
 Phần 1 điểm những dấu mốc lịch sử điều khiển tối ưu hiện đại bắt đầu từ 1950s, với những kết quả quan trọng như Pontryagin Maximum Principe (1957), sau đó là LQR của Kalman (1960). Điểm chung của PMP và LQR là đều dựa trên những kết quả trước đó của calculus of variation, ie. phương trình Hamilton. Vậy calculus of variation đến từ đâu và có gì thú vị, liệu có thể nhìn optimal control ở một lịch sử dài hơn không hay chỉ dừng lại ở thập niên 1950s?
 
 <p align="center">
-<img src="/images/posts/optimal_control/map_of_part_II.jpg" width="400">
+<img src="/images/posts/optimal_control/map_part_II.jpg" width="400">
 </p>
 
 Hector Saussan [1], trong bài báo kỷ niệm 300 năm ngày ra đời bài toán đường đi nhanh nhất (Brachistochrone), xuất bản 1997, cho rằng lịch sử optimal control có thể xem ra đời từ lúc Johhan Bernoulli giới thiệu bài toán này. Chuyện kể, năm 1696 trong ngày buồn “ko có việc gì làm”, Johhan “thách đố” các nhà toán lý vĩ đại nhất thời đó, với bài toán: giả sử có hai điểm A,B trên cùng một mặt phẳng đứng, dưới tác động duy nhất của trọng lực thì con đường nào khiến hòn bi lăn từ điểm A đến điểm B trong thời gian nhanh nhất. Sau đó cả thảy có 6 lời giải được công bố trong đó Leibniz (tháng 6, 1696), Newton (1697), mô tả rằng đường đi nhanh nhất không phải là đường thẳng mà là đường cong có dạng cycloid. Bài toán này chính là khởi đầu cho một lĩnh vực gọi là phương pháp biến phân (calculus of variantions), công cụ giải các bài toán liên quan tìm quỹ đạo tối ưu, và nền tảng cho lý thuyết điều khiển tối ưu sau này.
