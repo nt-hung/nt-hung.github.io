@@ -10,8 +10,6 @@ tags:
   - Control 
 ---
 
-# Kỷ thuật điều khiển vệ tinh và tên lửa đẩy 
-
 Khi có cơ hội về lại trường củ, hoặc đi các events gặp đồng nghiệp mình hay giới thiệu về các dự án điều khiển bọn mình đang làm cho các thiết bị trong không gian và mọi người hay thắc mắc là kỷ thuật điều khiển ngành này hay dùng là gì, và khi trao đổi có nhiều thứ rất thú vị.
 
 <!--more-->
@@ -42,5 +40,5 @@ Chia sẻ ở đây để thấy rằng vai trò của điều khiển tuyến t
 
 Hai hình đính kèm liên quan đến 2 project trong space industry ở EU mà mình tham gia và đóng góp 2 năm qua và thiết kế toàn bộ hệ thống điều khiển cho nó cho đến bây giờ.
 
-H1: Launching vehicles của Orbex (UK) https://orbex.space/ và
-H2: Spacecraft của ClearSpace (Switzerland), https://clearspace.today/
+- H1: Launching vehicles của Orbex (UK) https://orbex.space/ và
+- H2: Spacecraft của ClearSpace (Switzerland), https://clearspace.today/

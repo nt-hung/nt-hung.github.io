@@ -1,5 +1,5 @@
 ---
-title: 'The history of optimal control - Part II'
+title: 'Apply gyroscopic effect in attitude control'
 date: 2023-12-15
 permalink: /posts/2020/11/vu_con_quay/
 excerpt_separator: <!--more-->
@@ -9,9 +9,6 @@ tags:
   - Mathematic
   - Control 
 ---
-
-# Vụ (con quay), và ứng dụng Gyroscopic effect trong điều khiển hướng vệ tinh (attitude control).
-
 Đợt vừa rồi nhờ ứng dụng một effect vật lý (gọi là Gyroscopic effect) để điều khiển hướng vệ tinh và thấy thú vị nên xin chia sẻ cùng với mọi người ở đây.
 
 <!--more-->
