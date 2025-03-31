@@ -10,8 +10,6 @@ tags:
   - Control 
 ---
 
-# Tên lửa, vệ tinh để làm gì
-
 Hôm qua có chú em ở quê tò mò hỏi về công việc bọn mình làm, nên nhân đây chia sẻ thêm về công việc của một ngành công nghiệp chắc chưa phổ biến ở VN- đó là ngành công nghiệp không gian (Space industry).  
 
 <!--more-->
