@@ -53,11 +53,14 @@ Vật trượt theo đường cong nhanh nhất (đường đoản thời Beunou
 Liệu có còn những hiện tượng tự nhiên nào có thể giải thích được với những kết quả của Euler, của Lagrange, hay Hamiton ? Và liệu những hiện tượng tự nhiên đó có thể giúp ích gì trong điều khiển ? Câu trả lời nằm ở những nhà điều khiển tài năng.
 
 <p align="left">
-<img src="/images/posts/optimal_control/khuc_xa.png" width="400">
+<img src="/images/posts/optimal_control/khuc_xa.png" width="300">
 </p>
 
+<p align="right">
+<img src="/images/posts/optimal_control/Bernoulli_solution.gif" width="300">
+</p>
 <p align="center">
-<img src="/images/posts/optimal_control/Bernoulli_solution.gif" width="400">
+<img src="/images/posts/optimal_control/vong.JPG" width="300">
 </p>
 
 
