@@ -4,6 +4,8 @@ title: "Recent talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+- IROS 2024, Abu-Dhabi UAE (invited for a plenary talk on the workshop Maritime Heterogeneous Unmanned Robotic Systems).
+    - **Title**: Cooperative distributed control and estimation of networked marine robotic systems: theory and applications. [Web](https://iros2024-abudhabi.org/workshop-tutorials)  
 - KAUST Research Conference on Robotics and Autonomy 2023, Saudi Arabia (invited).
     - **Title**: Range-based underwater target localization and pursuit with cooperative marine robots.  [Web](https://cemse.kaust.edu.sa/robotokaust)  
 - European Marine Robotics Network, April 2021 (invited).
