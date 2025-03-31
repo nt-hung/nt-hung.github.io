@@ -9,9 +9,9 @@ redirect_from:
 ---
 <meta name="google-site-verification" content="IDTplBCijCUnJEesk3uOXKQKJ7BboaQqEFIEmlTQ_UE" />
 
-Welcome! I am a control and robotics enthusiast. I obtain a PhD (on July 2021) in electrical and computer engineering from the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), [University of Lisbon](https://www.ulisboa.pt/en). My PhD work was supervised by [Prof. Antonio Pascoal](https://www.antoniopascoal.com/about-me), addressing problems in cooperative control and estimation of networked multiple autonomous vehicles*. Right after the PhD, I joined [Elecnor-Deimos](https://elecnor-deimos.com/clearspace/) as a Guidance, Navigation, and Control (GNC) Engineer, working in projects involving the research and development of GNC systems for autonomous robotic vehicles. 
+Welcome! I am a control and robotics enthusiast with a PhD in electrical and computer engineering, awarded in 2021 by the [Institute For Systems and Robotics (ISR)](https://isr.tecnico.ulisboa.pt/), university of Lisbon. My PhD research* was supervised by [Prof. Antonio Pascoal](https://www.antoniopascoal.com/about-me) at the ISR Lisbon, and partially with [Prof. Tor A. Johansen](https://www.ntnu.edu/employees/tor.arne.johansen) at the Norwegian University of Science and Technology (NTNU), addressing problems in control of networked robotic systems. Following my PhD, I spent two years at [Deimos-Space](https://deimos-space.com/),leding the design of control systems for the satellites and launch vehicles developed for clients such as [ClearSpace (Switzerland)](https://clearspace.today/) and [Orbex (UK)](https://orbex.space/). Currently, I work as a technical lead in guidance, navigation, and control (GNC) at the [Autonomous Robotics Research Center (ARRC)](https://www.tii.ae/autonomous-robotics/our-research#control-and-decision-making), the Technology Innovation Institute (TII), Abu-Dhabi.
 
-My current research interest is at the intersection of control, estimation, optimization, and network science with the focus on applications in motion planing, guidance, navigation, and control of a single and networked multiple autonomous vehicles/robots.
+My research interests include motion planning, navigation, and control for both single and networked autonomous robotic vehicles.
 
 (*)PhD thesis: [[Pdf]](/files/pdf/research/Hung_PHDThesis_full.pdf)
 
