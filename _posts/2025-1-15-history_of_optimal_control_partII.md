@@ -1,6 +1,6 @@
 ---
 title: 'The history of optimal control - Part II'
-date: 2025-15-01
+date: 2025-01-15
 permalink: /posts/2020/11/proof-euler/
 excerpt_separator: <!--more-->
 usemath: true
