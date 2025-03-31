@@ -10,18 +10,20 @@ tags:
   - Control 
 ---
 
-Nhân dịp chuẩn bị tài liệu cho một seminar về optimal control ứng dụng trong autonomous robotic vehicles, xin chia sẻ cùng mọi người một chút hiểu biết mang tính lịch sử, hy vọng thú vị và hữu ích cho ai muốn tham khảo một góc nhìn tổng quan về topic này.
-
-<!--more-->
-
-<p align="center">
-<img src="/images/posts/optimal_control/map_part_I.jpg" width="700">
-</p>
-
+# Điều Khiển Tối Ưu: Những dấu mốc trên con đường đã qua
 
 ## Phần 1: Thời Hiện Đại (1950s - nay)
 
+
+Nhân dịp chuẩn bị tài liệu cho một seminar về optimal control ứng dụng trong autonomous robotic vehicles, xin chia sẻ cùng mọi người một chút hiểu biết mang tính lịch sử, hy vọng thú vị và hữu ích cho ai muốn tham khảo một góc nhìn tổng quan về topic này.
+
+<!--more-->
+<p align="center">
+<img src="/images/posts/optimal_control/map_part_I.jpg" width="900">
+</p>
+
 Những người quan tâm đến lịch sử ngành điều khiển có lẽ đều đồng ý rằng optimal control ra đời vào thập niên 1950, thúc đẩy mạnh mẻ một phần bởi cuộc cạnh tranh giữa hai ông lớn Liên Xô và Mỹ sau Thế Chiến thứ hai. Vào thời đó, các bài toán điều khiển tối ưu trong lĩnh vực quân sự được xem là “hot”, bao gồm điều khiển tên lửa, tối ưu hóa vận tải, tối ưu quản lý vật tư, hay tối ưu điều phối lực lượng, vv. Chẳng hạn, với tên lửa, câu hỏi đặt ra là: làm sao để điều khiển nó tiết kiệm nhiên liệu nhất, đi được xa nhất, hay đạt được vận tốc cuối (terminal velocity) lớn nhất.
+
 Phía Mỹ: Bellman giới thiệu Dynamic Programming (DP) vào năm 1953. DP dựa trên Nguyên lý Tối ưu (Principle of Optimality), chia nhỏ bài toán tối ưu tổng thể phức tạp thành các bài toán con để giải quyết. Trong khi đó phía Liên Xô: Pontryagin phát triển Nguyên lý Cực đại (Pontryagin’s Maximum Principle - PMP), công bố vào năm 1957. PMP xây dựng trên nền tảng phương pháp biến phân (Calculus of Variations), cung cấp điều kiện cần cho bài toán điều khiển tối ưu, có thể áp dụng không chỉ cho hệ phi tuyến mà còn ràng buộc ở ngõ vào của hệ thống điều khiển. Thú vị là Pontryagin làm việc trong điều kiện bị mù từ năm 14 tuổi, nên cũng không hiểu là cụ nghiên cứu bằng cách nào mà ra lý thuyết hay thế. Nhưng chắc chắn do bị mù cụ sẽ tập trung hơn vì không thấy được nhiều cám dỗ như anh em chúng ta 😃.
 
 Cả DP và PMP đều đưa ra các điều kiện tối ưu cho một bài toán điều khiển tối ưu tổng quát. Tuy nhiên, hạn chế lớn lúc bấy giờ là không phải lúc nào cũng tìm được luật điều khiển giải tích (analytical control law). Với DP, vấn đề còn nằm ở "lời nguyền chiều (curse of dimensionality)", trong khi PMP đòi hỏi giải hệ phương trình vi phân biên phức tạp. Thời đó, máy tính còn yếu, và solver/software và các phương pháp số chưa phát triển, nên việc triển khai thực tiễn gặp nhiều khó khăn. Do đó mấy nhà điều khiển học mới nghĩ lại thay vì cố gắng giải bài toán điều khiển tối ưu tổng quát thì liệu xem xét lại các hệ thống đơn giản như tuyến tính, không ràng buộc ở input hay state thì liệu có thể dễ giải hơn không ?
@@ -40,7 +42,9 @@ Ngày nay, một trong những kỷ thuật quan trọng bậc nhất liên quan
 Về mặt lý thuyết, dù MPC xuất hiện từ 1970s, phải đến năm 2000, bài báo nổi tiếng của D.Q. Mayne và cộng sự [3] mới giải thích đầy đủ tại sao MPC worked, làm rõ stability, performance, and feasibility của MPC. Mayne tổng kết các phiên bản MPC và đưa ra điều kiện thiết kế cho terminal cost và terminal constraint để vừa đảm bảo recursive feasibility cho bài toán tối ưu trong MPC đồng thời stability.
 
 Trong thực tiễn, vấn đề lớn nhất của MPC là yêu cầu tính toán để giải bài toán tối ưu tại mỗi bước, vì thế ban đầu chỉ phù hợp với hệ thống chậm trong process control như hóa dầu. Ngày nay nhờ tiến bộ phần cứng và phần mềm (solvers), MPC ngày nay áp dụng rộng rãi trong hệ thống nhanh như xe hơi và robotic vehicles, mở rộng sang path/trajectory planning và cả state estimation (e.g., Moving Horizon Estimation). Từ thập niên 2000, MPC phát triển mạnh mẽ với các nhánh như robust MPC, stochastic MPC, distributed MPC, và gần đây là learning-based MPC, để giải quyết các vấn đề phức tạp hơn của hệ thống như model uncertainty, ...vv.
+
 Cuối cùng nói về điều khiển tối ưu chắc cần nhắc đến Reinforcement Learning (RL) dù nó xuất thân từ AI community. Có câu hỏi là RL có phải là một phương pháp điều khiển tối ưu không? Mình cho là có vì bản chất RL tìm kiếm chính sách (policy/control law) cho ngỏ vào input để maximize hàm thưởng (reward function), rất giống với concept với điều khiển tối ưu. Sâu hơn có thể chỉ ra tương quan giữa RL và optimal control (ví dụ như, Bellman Equation trong RL giống HJB trong control), nhưng mình chưa đủ trãi nghiệm với RL để phân tích sâu hơn nên xin dành lại bình luận cho những ai làm sâu về RL chia sẻ thêm trong lĩnh vực này.
+
 Như vậy, có thể thấy lịch sử optimal control có một hành trình thú vị gần một thế kỷ qua. Thú vị hơn ngày càng thấy sự giao thoa của nó với các lĩnh vực khác vị dụ RL nguồn gốc từ AI. Nhờ sự tiến bộ vượt bậc của máy tính và phần mềm trong đó phải kể đến các solver software, việc ứng dụng optimal control (đặc biệt MPC) ngày càng dễ dàng hơn trong các hệ thống thực tế. Tuy nhiên ngày nay, khi sử dụng solver để giải các bài toán tối ưu mọi người có thể rất dễ quên một lịch sử đẹp thú vị của optimal control từ những ngày 1950s đến nay và thậm chí trước đó nữa.
 
 Và để những lịch sử thú vị đó không bị lãng quên mình sẽ kể nó vào Phần 2 của topic này trong những ngày tiếp theo, mang tên "Những ngày trước 1950s."
