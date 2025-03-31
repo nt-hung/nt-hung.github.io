@@ -1,7 +1,7 @@
 ---
-title: 'The history of optimal control - Part II'
+title: 'Control techniques in satellites and rocket launching vehicles'
 date: 2023-09-15
-permalink: /posts/2020/11/vu_con_quay/
+permalink: /posts/2020/11/Control techniques in satellites and rocket launching vehicles/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
@@ -10,11 +10,12 @@ tags:
   - Control 
 ---
 
-Một chút hiểu biết về điều khiển vệ tinh, tên lửa đẩy
+# Kỷ thuật điều khiển vệ tinh và tên lửa đẩy 
 
 Khi có cơ hội về lại trường củ, hoặc đi các events gặp đồng nghiệp mình hay giới thiệu về các dự án điều khiển bọn mình đang làm cho các thiết bị trong không gian và mọi người hay thắc mắc là kỷ thuật điều khiển ngành này hay dùng là gì, và khi trao đổi có nhiều thứ rất thú vị.
 
-Nhân đây cũng xin chia sẻ cùng ace, trước để có chuyện cùng mọi người thảo luận cho vui, sau để cùng nhau xem trong cộng đồng VNCR, hay rộng hơn ở VN chúng ta có ai đang làm hay quan tâm đến những ứng dụng như thế này không nhé.
+<!--more-->
+
 Có lẻ mọi người sẽ rất ngạc nhiên khi được biết rằng kỷ thuật điều khiển cho tên lửa, vệ tinh, những cỗ máy vô cùng phức tạp, lại rất đơn giản, chủ yếu PID, LQR, hoặc PID kết hợp thêm với các state feedback khác. Gần đây thì có thêm Hinf, và đang dần trở thành sự lựa chọn mặc định trong các dự án liên quan đến space industry ở EU. Vậy tại sao bao nhiêu năm qua, với sự ra đời rất nhiều “advanced” non-linear techniques khác, từ Fuzzy, Sliding Mode, MPC, cho đến AI-based như RL, vv nhưng linear control đơn giản kể trên vẫn phổ biết trong space industry ? Có lẽ do những nguyên nhân sau.
 
 - Đơn giản
