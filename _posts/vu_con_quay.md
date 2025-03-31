@@ -1,7 +1,7 @@
 ---
 title: 'The history of optimal control - Part II'
 date: 2023-12-15
-permalink: /posts/2020/11/history_optimal_control_part_II/
+permalink: /posts/2020/11/vu_con_quay/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
@@ -33,6 +33,5 @@ Vậy những điều trên ứng dụng trong attitude control cho vệ tinh nh
 
 Đối với vệ tinh có một mode điều khiển liên quan attitude control là làm sao giữ hướng của các tấm pin mặt trời chiếu thẳng vào mặt trời trong một thời gian dài, mục tiêu là lấy được nhiều năng lượng mặt trời nhất. Điều này về mặt điều khiển thì không có gì khó khăn nếu dùng actuator đủ mạnh. Trong vệ tinh có 3 loại actuators phổ biến 1) thrusters 2) Reaction wheel và 3) magnetorquer. Loại đầu thì mạnh nhất nhưng tốn gas đốt nên không thể dùng lâu, do đó thường loại 2 hoặc 3 dùng cho mode này. Như bọn mình làm thì dùng loại thứ 3 nhưng vấn đề là loại thứ 3 rất yếu, có rất ít torque authority cho attitude control nên dẫn đến sai số rất lớn và mất thời gian rất lâu để stablize attitude control error.
 Vậy là bọn mình dùng nguyên lý gyroscopic effect ở trên để hổ trợ attitude control. Ý tưởng là khởi đầu cho vệ tinh một angular momentum, đó là kích cho nó xoay quanh trục hướng đến mặt trời với một angular rate nào đó. và chính angular momentum khởi đầu này giúp chống lại sự thay đổi hướng của vệ tinh tác động bởi môi trường xung quanh. Việc còn lại là dùng một feedback control đơn giản kết hợp với magnetorquer để bù lại sự suy giảm của angular momentum kể trên gây ra bởi tác động của enviroment, qua đó giữ cho vệ tinh luôn hướng đến mặt trời như mong muốn.
-
 
 Trong thời gian làm điều khiển cho các thiết bị xe cộ như thế này mình gặp và học được nhiều kỷ thuật như thế và thấy rằng nhiều lúc không phải lúc nào cũng có thể áp dụng control techniques vào ngay tức khắc mà việc hiểu rõ bản chất vật lý đằng sau đối tượng điều khiển là vô cùng quan trọng. Và nhiều lúc hết sức thú vị khi cùng một hiện tượng nhưng chúng ta không chỉ có thể nhìn nó từ góc nhìn điều khiển mà còn từ vật lý và khi kết hợp 2 hiểu biết này với nhau đưa ra những giải pháp vô cùng hiệu quả cho các bài toán engineering.
