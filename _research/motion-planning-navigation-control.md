@@ -5,19 +5,6 @@ excerpt: "<img src='/images/research/all_methods.png' alt=''>"
 collection: research
 order_number: 1
 ---
-
-<!-- Range-based navigation is defined for an agent, for example, a scuba-diver or
-an autonomous underwater vehicle (AUV) to find its own state (position, and possibly with velocity and acceleration) using
-the information measured by the agent itself and the ranges to a known single or multiple
-beacons. If an agent like AUV can measure its velocity vector (using
-Doppler Velocity Log (DVL)), then only the position of the AUV needs to be determined.
-In other situations, velocity and acceleration need to be determined as well. -->
-
-
-<!-- <p align="center">
-<img src="/images/research/all_methods.png" width="400">
-</p> -->
-
 ## Path following control  
 
 - A study on path following control methods for autonomous robotic vehicles, covering a wide variety techniques based on Lyapunov stability theory or optimization based techniques such as Nonlinear Model Predictive Control
