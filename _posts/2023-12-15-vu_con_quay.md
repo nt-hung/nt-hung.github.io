@@ -1,5 +1,5 @@
 ---
-title: 'Apply gyroscopic effect in attitude control'
+title: 'Apply gyroscopic effect in attitude control of satellites'
 date: 2023-12-15
 permalink: /posts/2020/11/vu_con_quay/
 excerpt_separator: <!--more-->

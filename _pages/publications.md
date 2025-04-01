@@ -25,10 +25,6 @@ International Journal of Robust Nonlinear Control, 2020. \
 -  Nguyen T. Hung, Antonio M. Pascoal, "Consensus/synchronization of networked nonlinear
 multiple agent systems with event-triggered communications", International Journal of Control, 2020. \
 [[Preprint]](/files/pdf/research/IJC2020_preprint.pdf) - [[Web]](https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1849806) - [[Code]](https://github.com/hungrepo/consensus-synchronization-of-MAS/tree/master/IJC2020).
-  
-- Nguyen Hung et al.  "SLAP - an algorithm for target localization and pursuit with autonomous mobile robots: theory and experimental results", to be submitted soon.\
-[[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]](). 
-
 - Nguyen Hung and Antonio Pascoal "Range-based target localization and single beacon navigation: observability analysis, guidelines for motion planning and filter design", to be submitted.\
 [[Preprint]]() - [[Web]]( ) - [[Code]]( ) - [[Video]]().
 
