@@ -1,7 +1,7 @@
 ---
 title: 'Modelling and system identification: how to apply it in identifying your potential lover'
 date: 2025-04-06
-permalink: /posts/2020/11/system_identification/
+permalink: /posts/2025/system_identification/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
@@ -9,6 +9,7 @@ tags:
   - Mathematic
   - Control
 ---
+
 Trong điều khiển có một chủ đề rất quan trọng nhưng ít được quan tâm đúng mức đó là “mô hình hóa và nhận dạng hệ thống”. Đại loại là để điều khiển bất kể đối tượng nào thì bước đầu tiên là phải hiểu được đối tượng đó hoạt động như thế nào. Kiểu như thanh niên muốn chinh phục một cô gái, mà không hiểu đối tượng mình đang tán, tâm tư tình cảm cô gái ấy như thế nào mà vội vả ra hành động là hỏng ngay. 
 
 Sau bao nhiêu năm làm về điều khiển, hôm vừa rồi ngồi chém gió với mấy cậu đồng nghiệp trẻ trong công ty để truyền bí kíp về chủ đề này.
@@ -48,7 +49,7 @@ Tức là nghệ thuật của bước chuẩn bị dữ liệu ở chổ là l�
 
 Bước 3: sau khi có được data thì nên chia data theo tỷ lệ 80-20, trong đó 80% dùng để đưa vào SysID toolbox và thuật toán tối ưu sẽ giúp nhận dạng các tham số của mô hình hệ thống; và 20% còn lại gọi là data tươi (fresh) để validate xem coi mô hình nhận dạng có fit với hệ thống không.
 
-Tóm lại Phần 3 của cuốn sách Lijung muốn hướng dẫn người dùng làm sao thiết kế thí nghiệm để thu được data có ý nghĩa nhất cho việc nhận dạng hệ thống. Ngoài ra một phần quan trọng nữa là chọn cấu trúc mô hình, nhưng phần này thì cơ bản phương pháp là bắt đầu bằng cách chọn cấu trúc mô hình càng đơn giản (tuyến tính, ít bậc) càng tốt. Sau khi nhận dạng xong, validate với dữ liệu mới nếu thấy fit thì tốt, không thì có thể chọn mô hình khác (phi tuyến như Hammerstein, Winner) hoặc tăng bậc lên.
+Tóm lại Phần 3 của cuốn sách Lijung muốn hướng dẫn người dùng làm sao thiết kế thí nghiệm để thu được data có ý nghĩa nhất cho việc nhận dạng hệ thống. Ngoài ra một phần quan trọng nữa là chọn cấu trúc mô hình, nhưng phần này thì cơ bản phương pháp là bắt đầu bằng cách chọn cấu trúc mô hình càng đơn giản (tuyến tính, ít bậc) càng tốt. Sau khi nhận dạng xong, validate với dữ liệu mới nếu thấy fit thì tốt, không thì có thể chọn mô hình khác (phi tuyến như hammerstein, Wiener) hoặc tăng bậc lên.
 
 ---
 
