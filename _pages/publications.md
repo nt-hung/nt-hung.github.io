@@ -37,7 +37,7 @@ multiple agent systems with event-triggered communications", International Journ
 	   [[Preprint]](/files/pdf/research/IETbook_CPF_LBC2019_preprint.pdf) - [[Web]](https://digital-library.theiet.org/content/books/10.1049/pbtr011e_ch8) - [[Code]](https://github.com/hungrepo/cooperative-path-following/tree/master/CPF-Medusa) - [[Videos]](https://www.youtube.com/watch?v=YkpvfibSad0). 
 
 ## Conferences
-- Luca Morando, Sanket Ankush Salunkhe, Nishanth Bobbili, Jeffrey Mao, Luca Masci, Cristino De Souza Jr., Nguyen Hung, Giuseppe Loianno, "Trajectory Planning and Control for Differentially Flat Fixed-Wing Aerial Systems, ICRA 2025 [[video]]()-[[paper]](https://arxiv.org/abs/2502.00581) 
+- Luca Morando, Sanket Ankush Salunkhe, Nishanth Bobbili, Jeffrey Mao, Luca Masci, Cristino De Souza Jr., Nguyen Hung, Giuseppe Loianno, "Trajectory Planning and Control for Differentially Flat Fixed-Wing Aerial Systems, ICRA 2025 [[video]]() - [[paper]](https://arxiv.org/abs/2502.00581) 
 - Rodrigo Rego, Nguyen T. Hung, Antonio Pascoal, "Cooperative Motion Control Using Hybrid
 Acoustic-Optical Communication Networks", CAMS2021, accepted, [[Preprint]](/files/pdf/research/rodrigo_CAMS2021.pdf) - [[Videos]](https://www.youtube.com/watch?v=wSVyGIrWe5I&ab_channel=nt-hung).  
 - Nguyen T. Hung, Antonio M. Pascoal, "Range-based navigation and target localization: observability analysis and guidelines for motion planning", IFAC2020, [[Web]](https://www.sciencedirect.com/science/article/pii/S2405896320318838).
