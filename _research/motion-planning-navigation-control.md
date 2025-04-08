@@ -1,7 +1,7 @@
 ---
 title: "Autonomous robotic vehicles"
 layout: single-portfolio
-excerpt: "<img src='/images/research/all_methods.png' alt=''>"
+excerpt: "<img src='/images/research/FW_UAV.png' alt=''>"
 collection: research
 order_number: 1
 ---
