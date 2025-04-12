@@ -16,6 +16,10 @@ Sau bao nhiêu năm làm về điều khiển, hôm vừa rồi ngồi chém gi�
 
 <!--more-->
 
+<p align="center">
+<img src="/images/posts/system_identification/sys_id_Lijung.jpg" width="900">
+</p>
+
 Bí kíp thì từ nhiều nơi nhưng muốn học bài bản phải đọc cuốn “system identification” của Lenart Lijung. Cụ Lijung không chỉ nói về lý thuyết mà còn cha đẻ của system identification toolbox trong matlab để giúp người dùng ứng dụng nó. Vấn đề là sách này rất nặng về toán, và nếu ai chưa hiểu nhiều về chủ đề này vào đọc thì rất dễ nản. Bản thân mình bắt đầu đụng cuốn này thời bắt đầu làm master về process control (từ năm 2012) nhưng hồi đó sau khi đọc được mấy hôm thì lại quăng đi vì lúc đó mới vào nghề tự học lơ ngơ chả hiểu được nhiều nên chán, sau này dần hiểu ý nghĩa nên đọc kỷ hơn và thấy quan trọng. Hôm vừa rồi có buổi thảo luận về mô hình hóa và nhận dạng các tham số cho UAVs, thế là giới thiệu cuốn này cho mấy chú đồng nghiệp, chém thêm một vài ý trong đó liên hệ với chuyện yêu đương trai gái cho mấy chú dễ hình dung, chứ mới đâm đầu vào mà đụng toán nhiều là dễ bỏ ngay.
 
 Cơ bản sách có 3 phần chính trong đó Phần 1 và Phần 2 là nền tảng còn Phần 3 là ứng dụng. 
@@ -54,3 +58,5 @@ Tóm lại Phần 3 của cuốn sách Lijung muốn hướng dẫn người dù
 ---
 
 Như vậy về cơ bản ý nghĩa của cuốn sách Lijung là thế, khá nhiều toán nhưng cơ bản chúng ta có thể liên hệ system identification trong điều khiển và cuộc sống để hình dung nó dễ hơn, để dễ đọc hơn. Những nguyên tắc về mô hình hóa và nhận dạng hệ thống ở trên không chỉ quan trọng trong việc nhận dạng mô mình cho điều khiển mà nguyên lý của nó còn áp dụng cho việc thế kế các quỷ đạo cho các thiết bị không người lái, làm sao nó có thu được nhiều thông tin nhất về môi trường, về vật chuẩn để giúp nó định vị trong những điều kiện thông tin không được nhiều, và phần này liên quan đến một chủ đề quan trọng khác trong điều khiển gọi là "observability, detectability ... of dynamical systems". 
+
+<iframe src="/images/posts/system_identification/system_identification.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
