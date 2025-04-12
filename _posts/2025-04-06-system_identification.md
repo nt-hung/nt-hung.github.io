@@ -17,7 +17,7 @@ Sau bao nhiêu năm làm về điều khiển, hôm vừa rồi ngồi chém gi�
 <!--more-->
 
 <p align="center">
-<img src="/images/posts/system_identification/sys_id_Lijung.jpg" width="900">
+<img src="/images/posts/system_identification/sys_id_Lijung.jpg" width="500">
 </p>
 
 Bí kíp thì từ nhiều nơi nhưng muốn học bài bản phải đọc cuốn “system identification” của Lenart Lijung. Cụ Lijung không chỉ nói về lý thuyết mà còn cha đẻ của system identification toolbox trong matlab để giúp người dùng ứng dụng nó. Vấn đề là sách này rất nặng về toán, và nếu ai chưa hiểu nhiều về chủ đề này vào đọc thì rất dễ nản. Bản thân mình bắt đầu đụng cuốn này thời bắt đầu làm master về process control (từ năm 2012) nhưng hồi đó sau khi đọc được mấy hôm thì lại quăng đi vì lúc đó mới vào nghề tự học lơ ngơ chả hiểu được nhiều nên chán, sau này dần hiểu ý nghĩa nên đọc kỷ hơn và thấy quan trọng. Hôm vừa rồi có buổi thảo luận về mô hình hóa và nhận dạng các tham số cho UAVs, thế là giới thiệu cuốn này cho mấy chú đồng nghiệp, chém thêm một vài ý trong đó liên hệ với chuyện yêu đương trai gái cho mấy chú dễ hình dung, chứ mới đâm đầu vào mà đụng toán nhiều là dễ bỏ ngay.
