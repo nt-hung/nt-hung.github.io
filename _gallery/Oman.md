@@ -1,7 +1,7 @@
 ---
 title: "Oman-March-2025"
 layout: single-portfolio
-excerpt: "[<img src='/images/gallery/Oman/IMG_20250322_130314.jpg' alt=''>](https://nt-hung.github.io/gallery/Oman/)"
+excerpt: "[<img src='/images/gallery/Oman/IMG_20250323_141359.jpg' alt=''>](https://nt-hung.github.io/gallery/Oman/)"
 collection: gallery
 order_number: 33
 gallery:
@@ -46,6 +46,6 @@ gallery:
     title: "Oman"
 
 header:
-  og_image: "gallery/Oman/IMG_20250324_102220.jpg
+  og_image: "gallery/Oman/IMG_20250323_141359.jpg
 ---
 {% include gallery %}
