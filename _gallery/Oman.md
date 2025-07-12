@@ -45,6 +45,6 @@ gallery:
     alt: "Oman"
     title: "Oman"
 header:
-  og_image: "gallery/Oman/IMG_20250323_115651.jpg
+  og_image: "gallery/Oman/IMG_20250324_102220.jpg
 ---
 {% include gallery %}
