@@ -3,7 +3,7 @@ title: "Kyrgyzstan-May-2025"
 layout: single-portfolio
 excerpt: "[<img src='/images/gallery/Kyrgyzstan/IMG_20250603_123802.jpg' alt=''>](https://nt-hung.github.io/gallery/Kyrgyzstan/)"
 collection: gallery
-order_number: 30
+order_number: 31
 gallery:
   - url: gallery/Kyrgyzstan/IMG_20250603_123802.jpg
     image_path: gallery/Kyrgyzstan/IMG_20250603_123802.jpg
