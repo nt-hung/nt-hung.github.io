@@ -43,9 +43,10 @@ gallery:
   - url: gallery/Oman/IMG_20250324_102220.jpg
     image_path: gallery/Oman/IMG_20250324_102220.jpg
     alt: "Oman"
+
     title: "Oman"
 
 header:
-  og_image: "gallery/Oman/IMG_20250323_141359.jpg
+  og_image: "gallery/Oman/IMG_20250323_141359.jpg"
 ---
 {% include gallery %}
