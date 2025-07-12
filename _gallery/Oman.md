@@ -44,6 +44,7 @@ gallery:
     image_path: gallery/Oman/IMG_20250324_102220.jpg
     alt: "Oman"
     title: "Oman"
+    
 header:
   og_image: "gallery/Oman/IMG_20250324_102220.jpg
 ---

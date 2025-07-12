@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan-May-2025"
+title: "Kyrgyzstan-June-2025"
 layout: single-portfolio
 excerpt: "[<img src='/images/gallery/Kyrgyzstan/IMG_20250603_123802.jpg' alt=''>](https://nt-hung.github.io/gallery/Kyrgyzstan/)"
 collection: gallery
